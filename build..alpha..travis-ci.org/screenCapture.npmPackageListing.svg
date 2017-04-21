@@ -1,0 +1,534 @@
+<svg height="8494" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="8494" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 12:26:22 +0000 19903057 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 12:26:22 +0000    67154 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 12:26:22 +0000      839 bytes  CONTRIBUTORS.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 12:26:22 +0000      442 bytes  Dockerfile</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 12:26:22 +0000     2599 bytes  HELP.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 12:26:22 +0000     1099 bytes  LICENSE</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 12:26:22 +0000     5623 bytes  README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 12:26:22 +0000     1093 bytes  bin/sitespeed.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 12:26:22 +0000      890 bytes  docker-compose.yml</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 12:26:22 +0000     1110 bytes  docker/docker-compose.yml</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 12:26:22 +0000      706 bytes  docker/scripts/start.sh</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 12:26:22 +0000     6191 bytes  docs/3.x/browsers/index.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 12:26:22 +0000    19778 bytes  docs/3.x/configuration/index.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 12:26:22 +0000    18570 bytes  docs/3.x/continuous-integration/add-build-step-j\</tspan>
+<tspan x="10" y="250">enkins.png</tspan>
+<tspan x="10" y="266"> 14.  2017-04-21 12:26:22 +0000     7697 bytes  docs/3.x/continuous-integration/index.md</tspan>
+<tspan x="10" y="282"> 15.  2017-04-21 12:26:22 +0000   107106 bytes  docs/3.x/continuous-integration/jenkins-plugin-c\</tspan>
+<tspan x="10" y="298">onfiguration.png</tspan>
+<tspan x="10" y="314"> 16.  2017-04-21 12:26:22 +0000    18957 bytes  docs/3.x/continuous-integration/teamcity-build-f\</tspan>
+<tspan x="10" y="330">eature.png</tspan>
+<tspan x="10" y="346"> 17.  2017-04-21 12:26:22 +0000    23694 bytes  docs/3.x/continuous-integration/teamcity-build-s\</tspan>
+<tspan x="10" y="362">tep.png</tspan>
+<tspan x="10" y="378"> 18.  2017-04-21 12:26:22 +0000     7959 bytes  docs/3.x/developers/index.md</tspan>
+<tspan x="10" y="394"> 19.  2017-04-21 12:26:22 +0000   111062 bytes  docs/3.x/developers/the-sitespeed.io-universe.pn\</tspan>
+<tspan x="10" y="410">g</tspan>
+<tspan x="10" y="426"> 20.  2017-04-21 12:26:22 +0000    73137 bytes  docs/3.x/developers/the-sitespeed.io-universe2.p\</tspan>
+<tspan x="10" y="442">ng</tspan>
+<tspan x="10" y="458"> 21.  2017-04-21 12:26:22 +0000     3774 bytes  docs/3.x/docker/index.md</tspan>
+<tspan x="10" y="474"> 22.  2017-04-21 12:26:22 +0000   240941 bytes  docs/3.x/gpsi/gpsi-detailed-page-info.png</tspan>
+<tspan x="10" y="490"> 23.  2017-04-21 12:26:22 +0000   143934 bytes  docs/3.x/gpsi/gpsi-pages.png</tspan>
+<tspan x="10" y="506"> 24.  2017-04-21 12:26:22 +0000    81539 bytes  docs/3.x/gpsi/gpsi-summary.png</tspan>
+<tspan x="10" y="522"> 25.  2017-04-21 12:26:22 +0000     1879 bytes  docs/3.x/gpsi/index.md</tspan>
+<tspan x="10" y="538"> 26.  2017-04-21 12:26:22 +0000   237029 bytes  docs/3.x/graphs/grafana-page-metrics.png</tspan>
+<tspan x="10" y="554"> 27.  2017-04-21 12:26:22 +0000   197511 bytes  docs/3.x/graphs/grafana-swedish-newspapers.png</tspan>
+<tspan x="10" y="570"> 28.  2017-04-21 12:26:22 +0000   157337 bytes  docs/3.x/graphs/grafana-timing-metrics.png</tspan>
+<tspan x="10" y="586"> 29.  2017-04-21 12:26:22 +0000   130089 bytes  docs/3.x/graphs/grafana-wpt-dark.png</tspan>
+<tspan x="10" y="602"> 30.  2017-04-21 12:26:22 +0000     2999 bytes  docs/3.x/graphs/index.md</tspan>
+<tspan x="10" y="618"> 31.  2017-04-21 12:26:22 +0000     2313 bytes  docs/3.x/headless/index.md</tspan>
+<tspan x="10" y="634"> 32.  2017-04-21 12:26:22 +0000     1980 bytes  docs/3.x/index.md</tspan>
+<tspan x="10" y="650"> 33.  2017-04-21 12:26:22 +0000     2164 bytes  docs/3.x/installation/index.md</tspan>
+<tspan x="10" y="666"> 34.  2017-04-21 12:26:22 +0000     1025 bytes  docs/3.x/introduction/index.md</tspan>
+<tspan x="10" y="682"> 35.  2017-04-21 12:26:22 +0000   233221 bytes  docs/3.x/performance-budget/budget.png</tspan>
+<tspan x="10" y="698"> 36.  2017-04-21 12:26:22 +0000     3371 bytes  docs/3.x/performance-budget/index.md</tspan>
+<tspan x="10" y="714"> 37.  2017-04-21 12:26:22 +0000   181688 bytes  docs/3.x/performance-dashboard/3rdparty.png</tspan>
+<tspan x="10" y="730"> 38.  2017-04-21 12:26:22 +0000   207433 bytes  docs/3.x/performance-dashboard/compare.png</tspan>
+<tspan x="10" y="746"> 39.  2017-04-21 12:26:22 +0000    45142 bytes  docs/3.x/performance-dashboard/configure-grafana\</tspan>
+<tspan x="10" y="762">.jpg</tspan>
+<tspan x="10" y="778"> 40.  2017-04-21 12:26:22 +0000    56682 bytes  docs/3.x/performance-dashboard/configure-grafana\</tspan>
+<tspan x="10" y="794">.png</tspan>
+<tspan x="10" y="810"> 41.  2017-04-21 12:26:22 +0000   278680 bytes  docs/3.x/performance-dashboard/custom-metrics.pn\</tspan>
+<tspan x="10" y="826">g</tspan>
+<tspan x="10" y="842"> 42.  2017-04-21 12:26:22 +0000   286911 bytes  docs/3.x/performance-dashboard/custom-metrics2.j\</tspan>
+<tspan x="10" y="858">pg</tspan>
+<tspan x="10" y="874"> 43.  2017-04-21 12:26:22 +0000    24284 bytes  docs/3.x/performance-dashboard/dashboard-logo.jp\</tspan>
+<tspan x="10" y="890">g</tspan>
+<tspan x="10" y="906"> 44.  2017-04-21 12:26:22 +0000    24391 bytes  docs/3.x/performance-dashboard/dashboards.zip</tspan>
+<tspan x="10" y="922"> 45.  2017-04-21 12:26:22 +0000    19394 bytes  docs/3.x/performance-dashboard/index.md</tspan>
+<tspan x="10" y="938"> 46.  2017-04-21 12:26:22 +0000   175607 bytes  docs/3.x/performance-dashboard/one-page.png</tspan>
+<tspan x="10" y="954"> 47.  2017-04-21 12:26:22 +0000   176337 bytes  docs/3.x/performance-dashboard/perasset.png</tspan>
+<tspan x="10" y="970"> 48.  2017-04-21 12:26:22 +0000   143578 bytes  docs/3.x/performance-dashboard/summary.png</tspan>
+<tspan x="10" y="986"> 49.  2017-04-21 12:26:22 +0000   169434 bytes  docs/3.x/performance-dashboard/webpagetest.png</tspan>
+<tspan x="10" y="1002"> 50.  2017-04-21 12:26:22 +0000   306148 bytes  docs/3.x/result/assets-report-3.png</tspan>
+<tspan x="10" y="1018"> 51.  2017-04-21 12:26:22 +0000   279871 bytes  docs/3.x/result/detailed-site-report-3.png</tspan>
+<tspan x="10" y="1034"> 52.  2017-04-21 12:26:22 +0000   205741 bytes  docs/3.x/result/detailed-site-summary-3.png</tspan>
+<tspan x="10" y="1050"> 53.  2017-04-21 12:26:22 +0000   234849 bytes  docs/3.x/result/domains-report-3.png</tspan>
+<tspan x="10" y="1066"> 54.  2017-04-21 12:26:22 +0000   206035 bytes  docs/3.x/result/full-page-report-3.png</tspan>
+<tspan x="10" y="1082"> 55.  2017-04-21 12:26:22 +0000   214559 bytes  docs/3.x/result/hotlist-report-3.png</tspan>
+<tspan x="10" y="1098"> 56.  2017-04-21 12:26:22 +0000     3825 bytes  docs/3.x/result/index.md</tspan>
+<tspan x="10" y="1114"> 57.  2017-04-21 12:26:22 +0000   218563 bytes  docs/3.x/result/site-summary-3.png</tspan>
+<tspan x="10" y="1130"> 58.  2017-04-21 12:26:22 +0000    24263 bytes  docs/3.x/rules-and-best-practices/index.md</tspan>
+<tspan x="10" y="1146"> 59.  2017-04-21 12:26:22 +0000     3559 bytes  docs/3.x/use-cases/index.md</tspan>
+<tspan x="10" y="1162"> 60.  2017-04-21 12:26:22 +0000     5878 bytes  docs/3.x/webpagetest/index.md</tspan>
+<tspan x="10" y="1178"> 61.  2017-04-21 12:26:22 +0000   484289 bytes  docs/3.x/webpagetest/wpt-detailed-page-info.png</tspan>
+<tspan x="10" y="1194"> 62.  2017-04-21 12:26:22 +0000   149596 bytes  docs/3.x/webpagetest/wpt-pages.png</tspan>
+<tspan x="10" y="1210"> 63.  2017-04-21 12:26:22 +0000   100777 bytes  docs/3.x/webpagetest/wpt-summary.png</tspan>
+<tspan x="10" y="1226"> 64.  2017-04-21 12:26:22 +0000      205 bytes  docs/404.md</tspan>
+<tspan x="10" y="1242"> 65.  2017-04-21 12:26:22 +0000       73 bytes  docs/Gemfile</tspan>
+<tspan x="10" y="1258"> 66.  2017-04-21 12:26:22 +0000     3410 bytes  docs/Gemfile.lock</tspan>
+<tspan x="10" y="1274"> 67.  2017-04-21 12:26:22 +0000      343 bytes  docs/README.md</tspan>
+<tspan x="10" y="1290"> 68.  2017-04-21 12:26:22 +0000      412 bytes  docs/_config.yml</tspan>
+<tspan x="10" y="1306"> 69.  2017-04-21 12:26:22 +0000        0 bytes  docs/_includes/analythics.js</tspan>
+<tspan x="10" y="1322"> 70.  2017-04-21 12:26:22 +0000      141 bytes  docs/_includes/css/404.css</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-21 12:26:22 +0000      124 bytes  docs/_includes/css/default.css</tspan>
+<tspan x="10" y="1354"> 72.  2017-04-21 12:26:22 +0000     3262 bytes  docs/_includes/css/grid.css</tspan>
+<tspan x="10" y="1370"> 73.  2017-04-21 12:26:22 +0000     2084 bytes  docs/_includes/css/navigation.css</tspan>
+<tspan x="10" y="1386"> 74.  2017-04-21 12:26:22 +0000     2684 bytes  docs/_includes/css/normalize.css</tspan>
+<tspan x="10" y="1402"> 75.  2017-04-21 12:26:22 +0000     2972 bytes  docs/_includes/css/sitespeed.css</tspan>
+<tspan x="10" y="1418"> 76.  2017-04-21 12:26:22 +0000     2147 bytes  docs/_includes/footer.html</tspan>
+<tspan x="10" y="1434"> 77.  2017-04-21 12:26:22 +0000     1371 bytes  docs/_includes/header.html</tspan>
+<tspan x="10" y="1450"> 78.  2017-04-21 12:26:22 +0000      287 bytes  docs/_includes/index/box1.md</tspan>
+<tspan x="10" y="1466"> 79.  2017-04-21 12:26:22 +0000      652 bytes  docs/_includes/index/box2.md</tspan>
+<tspan x="10" y="1482"> 80.  2017-04-21 12:26:22 +0000      601 bytes  docs/_includes/index/box3.md</tspan>
+<tspan x="10" y="1498"> 81.  2017-04-21 12:26:22 +0000      372 bytes  docs/_includes/index/box4.md</tspan>
+<tspan x="10" y="1514"> 82.  2017-04-21 12:26:22 +0000      264 bytes  docs/_includes/index/box5.md</tspan>
+<tspan x="10" y="1530"> 83.  2017-04-21 12:26:22 +0000      647 bytes  docs/_includes/index/box6.md</tspan>
+<tspan x="10" y="1546"> 84.  2017-04-21 12:26:22 +0000      561 bytes  docs/_includes/index/box7.md</tspan>
+<tspan x="10" y="1562"> 85.  2017-04-21 12:26:22 +0000      430 bytes  docs/_includes/index/box8.md</tspan>
+<tspan x="10" y="1578"> 86.  2017-04-21 12:26:22 +0000     5061 bytes  docs/_includes/userTimings.js</tspan>
+<tspan x="10" y="1594"> 87.  2017-04-21 12:26:22 +0000     2343 bytes  docs/_layouts/compress.html</tspan>
+<tspan x="10" y="1610"> 88.  2017-04-21 12:26:22 +0000     2338 bytes  docs/_layouts/default.html</tspan>
+<tspan x="10" y="1626"> 89.  2017-04-21 12:26:22 +0000      248 bytes  docs/_layouts/notfound.html</tspan>
+<tspan x="10" y="1642"> 90.  2017-04-21 12:26:22 +0000     3533 bytes  docs/_layouts/startpage.html</tspan>
+<tspan x="10" y="1658"> 91.  2017-04-21 12:26:22 +0000    11520 bytes  docs/_posts/2016-10-27-sitespeed.io-4.0-is-relea\</tspan>
+<tspan x="10" y="1674">sed.md</tspan>
+<tspan x="10" y="1690"> 92.  2017-04-21 12:26:22 +0000     5363 bytes  docs/_posts/2016-12-01-speed-index-and-video.md</tspan>
+<tspan x="10" y="1706"> 93.  2017-04-21 12:26:22 +0000     3189 bytes  docs/_posts/2016-12-14-friendly-url-names.md</tspan>
+<tspan x="10" y="1722"> 94.  2017-04-21 12:26:22 +0000     1835 bytes  docs/_posts/2016-12-22-waterfall-icons.md</tspan>
+<tspan x="10" y="1738"> 95.  2017-04-21 12:26:22 +0000     2908 bytes  docs/_posts/2017-01-23-usertimings-best-practice\</tspan>
+<tspan x="10" y="1754">s.md</tspan>
+<tspan x="10" y="1770"> 96.  2017-04-21 12:26:22 +0000     3927 bytes  docs/_posts/2017-02-14-sitespeed.io-4.4.0-is-rel\</tspan>
+<tspan x="10" y="1786">eased.md</tspan>
+<tspan x="10" y="1802"> 97.  2017-04-21 12:26:22 +0000     4002 bytes  docs/_posts/2017-03-01-that-timeline-from-chrome\</tspan>
+<tspan x="10" y="1818">.md</tspan>
+<tspan x="10" y="1834"> 98.  2017-04-21 12:26:22 +0000     4151 bytes  docs/_posts/2017-03-11-find-that-median-run.md</tspan>
+<tspan x="10" y="1850"> 99.  2017-04-21 12:26:22 +0000     1854 bytes  docs/_posts/2017-03-15-4.7.0.md</tspan>
+<tspan x="10" y="1866">100.  2017-04-21 12:26:22 +0000     3090 bytes  docs/aboutus/index.md</tspan>
+<tspan x="10" y="1882">101.  2017-04-21 12:26:22 +0000      574 bytes  docs/blog/index.md</tspan>
+<tspan x="10" y="1898">102.  2017-04-21 12:26:22 +0000     3451 bytes  docs/documentation/browsertime/index.md</tspan>
+<tspan x="10" y="1914">103.  2017-04-21 12:26:22 +0000     8145 bytes  docs/documentation/coach/developers/index.md</tspan>
+<tspan x="10" y="1930">104.  2017-04-21 12:26:22 +0000     6231 bytes  docs/documentation/coach/how-to/index.md</tspan>
+<tspan x="10" y="1946">105.  2017-04-21 12:26:22 +0000      943 bytes  docs/documentation/coach/index.md</tspan>
+<tspan x="10" y="1962">106.  2017-04-21 12:26:22 +0000     2265 bytes  docs/documentation/coach/introduction/index.md</tspan>
+<tspan x="10" y="1978">107.  2017-04-21 12:26:22 +0000      801 bytes  docs/documentation/index.md</tspan>
+<tspan x="10" y="1994">108.  2017-04-21 12:26:22 +0000     3555 bytes  docs/documentation/pagexray/index.md</tspan>
+<tspan x="10" y="2010">109.  2017-04-21 12:26:22 +0000     7349 bytes  docs/documentation/sitespeed.io/browsers/index.m\</tspan>
+<tspan x="10" y="2026">d</tspan>
+<tspan x="10" y="2042">110.  2017-04-21 12:26:22 +0000    22275 bytes  docs/documentation/sitespeed.io/configuration/in\</tspan>
+<tspan x="10" y="2058">dex.md</tspan>
+<tspan x="10" y="2074">111.  2017-04-21 12:26:22 +0000     4041 bytes  docs/documentation/sitespeed.io/continuous-integ\</tspan>
+<tspan x="10" y="2090">ration/index.md</tspan>
+<tspan x="10" y="2106">112.  2017-04-21 12:26:22 +0000     2835 bytes  docs/documentation/sitespeed.io/developers/index\</tspan>
+<tspan x="10" y="2122">.md</tspan>
+<tspan x="10" y="2138">113.  2017-04-21 12:26:22 +0000     5978 bytes  docs/documentation/sitespeed.io/docker/index.md</tspan>
+<tspan x="10" y="2154">114.  2017-04-21 12:26:22 +0000     2696 bytes  docs/documentation/sitespeed.io/getting-started/\</tspan>
+<tspan x="10" y="2170">index.md</tspan>
+<tspan x="10" y="2186">115.  2017-04-21 12:26:22 +0000     2220 bytes  docs/documentation/sitespeed.io/how-it-all-works\</tspan>
+<tspan x="10" y="2202">/index.md</tspan>
+<tspan x="10" y="2218">116.  2017-04-21 12:26:22 +0000     2269 bytes  docs/documentation/sitespeed.io/index.md</tspan>
+<tspan x="10" y="2234">117.  2017-04-21 12:26:22 +0000     2162 bytes  docs/documentation/sitespeed.io/installation/ind\</tspan>
+<tspan x="10" y="2250">ex.md</tspan>
+<tspan x="10" y="2266">118.  2017-04-21 12:26:22 +0000     6326 bytes  docs/documentation/sitespeed.io/metrics/index.md</tspan>
+<tspan x="10" y="2282">119.  2017-04-21 12:26:22 +0000     1957 bytes  docs/documentation/sitespeed.io/mobile-phones/in\</tspan>
+<tspan x="10" y="2298">dex.md</tspan>
+<tspan x="10" y="2314">120.  2017-04-21 12:26:22 +0000     3998 bytes  docs/documentation/sitespeed.io/performance-budg\</tspan>
+<tspan x="10" y="2330">et/index.md</tspan>
+<tspan x="10" y="2346">121.  2017-04-21 12:26:22 +0000    16731 bytes  docs/documentation/sitespeed.io/performance-dash\</tspan>
+<tspan x="10" y="2362">board/index.md</tspan>
+<tspan x="10" y="2378">122.  2017-04-21 12:26:22 +0000     7914 bytes  docs/documentation/sitespeed.io/plugins/index.md</tspan>
+<tspan x="10" y="2394">123.  2017-04-21 12:26:22 +0000     3873 bytes  docs/documentation/sitespeed.io/prepostscript/in\</tspan>
+<tspan x="10" y="2410">dex.md</tspan>
+<tspan x="10" y="2426">124.  2017-04-21 12:26:22 +0000     9883 bytes  docs/documentation/sitespeed.io/upgrade/index.md</tspan>
+<tspan x="10" y="2442">125.  2017-04-21 12:26:22 +0000     3044 bytes  docs/documentation/sitespeed.io/use-cases/index.\</tspan>
+<tspan x="10" y="2458">md</tspan>
+<tspan x="10" y="2474">126.  2017-04-21 12:26:22 +0000     5500 bytes  docs/documentation/sitespeed.io/webpagetest/inde\</tspan>
+<tspan x="10" y="2490">x.md</tspan>
+<tspan x="10" y="2506">127.  2017-04-21 12:26:22 +0000      846 bytes  docs/examples/index.md</tspan>
+<tspan x="10" y="2522">128.  2017-04-21 12:26:22 +0000     2750 bytes  docs/faq/index.md</tspan>
+<tspan x="10" y="2538">129.  2017-04-21 12:26:22 +0000       53 bytes  docs/google0c83e3facf54325f.html</tspan>
+<tspan x="10" y="2554">130.  2017-04-21 12:26:22 +0000   134698 bytes  docs/img/3rd.png</tspan>
+<tspan x="10" y="2570">131.  2017-04-21 12:26:22 +0000    12295 bytes  docs/img/404.png</tspan>
+<tspan x="10" y="2586">132.  2017-04-21 12:26:22 +0000    21982 bytes  docs/img/404b.png</tspan>
+<tspan x="10" y="2602">133.  2017-04-21 12:26:22 +0000    30721 bytes  docs/img/404c.png</tspan>
+<tspan x="10" y="2618">134.  2017-04-21 12:26:22 +0000      622 bytes  docs/img/GitHub-Mark-32px.png</tspan>
+<tspan x="10" y="2634">135.  2017-04-21 12:26:22 +0000      514 bytes  docs/img/GitHub-Mark-64px.png</tspan>
+<tspan x="10" y="2650">136.  2017-04-21 12:26:22 +0000    30815 bytes  docs/img/aboutus/jonathan.jpg</tspan>
+<tspan x="10" y="2666">137.  2017-04-21 12:26:22 +0000    19180 bytes  docs/img/aboutus/peter.jpg</tspan>
+<tspan x="10" y="2682">138.  2017-04-21 12:26:22 +0000    23211 bytes  docs/img/aboutus/tobias.jpg</tspan>
+<tspan x="10" y="2698">139.  2017-04-21 12:26:22 +0000    82463 bytes  docs/img/annotations-example.png</tspan>
+<tspan x="10" y="2714">140.  2017-04-21 12:26:22 +0000     1678 bytes  docs/img/black-logo-120.png</tspan>
+<tspan x="10" y="2730">141.  2017-04-21 12:26:22 +0000    33999 bytes  docs/img/browsertime-ff-chrome.png</tspan>
+<tspan x="10" y="2746">142.  2017-04-21 12:26:22 +0000   107124 bytes  docs/img/budget.png</tspan>
+<tspan x="10" y="2762">143.  2017-04-21 12:26:22 +0000    27660 bytes  docs/img/celebrate.png</tspan>
+<tspan x="10" y="2778">144.  2017-04-21 12:26:22 +0000    52877 bytes  docs/img/coach-explained.png</tspan>
+<tspan x="10" y="2794">145.  2017-04-21 12:26:22 +0000     7301 bytes  docs/img/customscripts.png</tspan>
+<tspan x="10" y="2810">146.  2017-04-21 12:26:22 +0000    27204 bytes  docs/img/dashboard.jpg</tspan>
+<tspan x="10" y="2826">147.  2017-04-21 12:26:22 +0000    59183 bytes  docs/img/dashboard.png</tspan>
+<tspan x="10" y="2842">148.  2017-04-21 12:26:22 +0000     2221 bytes  docs/img/fastly.png</tspan>
+<tspan x="10" y="2858">149.  2017-04-21 12:26:22 +0000     2227 bytes  docs/img/fastly2.png</tspan>
+<tspan x="10" y="2874">150.  2017-04-21 12:26:22 +0000  1116205 bytes  docs/img/happy.gif</tspan>
+<tspan x="10" y="2890">151.  2017-04-21 12:26:22 +0000    23507 bytes  docs/img/html-reports.png</tspan>
+<tspan x="10" y="2906">152.  2017-04-21 12:26:22 +0000   166299 bytes  docs/img/html-summary.png</tspan>
+<tspan x="10" y="2922">153.  2017-04-21 12:26:22 +0000     5222 bytes  docs/img/ico/sitespeed.io-114.png</tspan>
+<tspan x="10" y="2938">154.  2017-04-21 12:26:22 +0000     7248 bytes  docs/img/ico/sitespeed.io-144.png</tspan>
+<tspan x="10" y="2954">155.  2017-04-21 12:26:22 +0000     2770 bytes  docs/img/ico/sitespeed.io-72.png</tspan>
+<tspan x="10" y="2970">156.  2017-04-21 12:26:22 +0000     6518 bytes  docs/img/ico/sitespeed.io.ico</tspan>
+<tspan x="10" y="2986">157.  2017-04-21 12:26:22 +0000     4598 bytes  docs/img/images-boxes.png</tspan>
+<tspan x="10" y="3002">158.  2017-04-21 12:26:22 +0000    36251 bytes  docs/img/junit-report.png</tspan>
+<tspan x="10" y="3018">159.  2017-04-21 12:26:22 +0000    11867 bytes  docs/img/logo-christmas.png</tspan>
+<tspan x="10" y="3034">160.  2017-04-21 12:26:22 +0000    51867 bytes  docs/img/logos/browsertime.png</tspan>
+<tspan x="10" y="3050">161.  2017-04-21 12:26:22 +0000    16044 bytes  docs/img/logos/coach.png</tspan>
+<tspan x="10" y="3066">162.  2017-04-21 12:26:22 +0000    18910 bytes  docs/img/logos/pagexray.png</tspan>
+<tspan x="10" y="3082">163.  2017-04-21 12:26:22 +0000    15042 bytes  docs/img/logos/sitespeed.io.png</tspan>
+<tspan x="10" y="3098">164.  2017-04-21 12:26:22 +0000    31532 bytes  docs/img/multiple-sites-2.0.jpg</tspan>
+<tspan x="10" y="3114">165.  2017-04-21 12:26:22 +0000    82308 bytes  docs/img/page-1.6.jpg</tspan>
+<tspan x="10" y="3130">166.  2017-04-21 12:26:22 +0000    63941 bytes  docs/img/page-1.7-b.jpg</tspan>
+<tspan x="10" y="3146">167.  2017-04-21 12:26:22 +0000   380894 bytes  docs/img/page-2.0.jpg</tspan>
+<tspan x="10" y="3162">168.  2017-04-21 12:26:22 +0000    53475 bytes  docs/img/page-columns.png</tspan>
+<tspan x="10" y="3178">169.  2017-04-21 12:26:22 +0000   229725 bytes  docs/img/page.png</tspan>
+<tspan x="10" y="3194">170.  2017-04-21 12:26:22 +0000   126718 bytes  docs/img/pages-1.6.jpg</tspan>
+<tspan x="10" y="3210">171.  2017-04-21 12:26:22 +0000   113981 bytes  docs/img/pages-1.7.jpg</tspan>
+<tspan x="10" y="3226">172.  2017-04-21 12:26:22 +0000   123394 bytes  docs/img/pages-1.8.jpg</tspan>
+<tspan x="10" y="3242">173.  2017-04-21 12:26:22 +0000    95483 bytes  docs/img/pages-2.0.jpg</tspan>
+<tspan x="10" y="3258">174.  2017-04-21 12:26:22 +0000    83448 bytes  docs/img/pages.jpg</tspan>
+<tspan x="10" y="3274">175.  2017-04-21 12:26:22 +0000   231120 bytes  docs/img/pagesummary-grafana.png</tspan>
+<tspan x="10" y="3290">176.  2017-04-21 12:26:22 +0000   467566 bytes  docs/img/pagesummary-grafana2.png</tspan>
+<tspan x="10" y="3306">177.  2017-04-21 12:26:22 +0000    71179 bytes  docs/img/perfbudget.png</tspan>
+<tspan x="10" y="3322">178.  2017-04-21 12:26:22 +0000    10990 bytes  docs/img/pippi.png</tspan>
+<tspan x="10" y="3338">179.  2017-04-21 12:26:22 +0000    10140 bytes  docs/img/robot-head.png</tspan>
+<tspan x="10" y="3354">180.  2017-04-21 12:26:22 +0000   125852 bytes  docs/img/screenshots-2.0.jpg</tspan>
+<tspan x="10" y="3370">181.  2017-04-21 12:26:22 +0000    42325 bytes  docs/img/sitespeed-400x400.jpg</tspan>
+<tspan x="10" y="3386">182.  2017-04-21 12:26:22 +0000    45582 bytes  docs/img/sitespeed-boss-page.png</tspan>
+<tspan x="10" y="3402">183.  2017-04-21 12:26:22 +0000    93059 bytes  docs/img/sitespeed-how-it-works.png</tspan>
+<tspan x="10" y="3418">184.  2017-04-21 12:26:22 +0000     3980 bytes  docs/img/sitespeed-logo-2.png</tspan>
+<tspan x="10" y="3434">185.  2017-04-21 12:26:22 +0000     3717 bytes  docs/img/sitespeed-logo-2c.png</tspan>
+<tspan x="10" y="3450">186.  2017-04-21 12:26:22 +0000     3866 bytes  docs/img/sitespeed-summary-twitter.gif</tspan>
+<tspan x="10" y="3466">187.  2017-04-21 12:26:22 +0000     9130 bytes  docs/img/sitespeed-twitter.gif</tspan>
+<tspan x="10" y="3482">188.  2017-04-21 12:26:22 +0000     9130 bytes  docs/img/sitespeed-twitter2.gif</tspan>
+<tspan x="10" y="3498">189.  2017-04-21 12:26:22 +0000   102470 bytes  docs/img/sitespeed-universe.png</tspan>
+<tspan x="10" y="3514">190.  2017-04-21 12:26:22 +0000    95275 bytes  docs/img/sitespeed.io-1.6-workflow.png</tspan>
+<tspan x="10" y="3530">191.  2017-04-21 12:26:22 +0000     8779 bytes  docs/img/sitespeed.io-400x400.png</tspan>
+<tspan x="10" y="3546">192.  2017-04-21 12:26:22 +0000     6480 bytes  docs/img/sitespeed.io-logo-large.png</tspan>
+<tspan x="10" y="3562">193.  2017-04-21 12:26:22 +0000    14113 bytes  docs/img/sitespeed.io-logo-large2.png</tspan>
+<tspan x="10" y="3578">194.  2017-04-21 12:26:22 +0000  1091763 bytes  docs/img/sitespeed3.x.png</tspan>
+<tspan x="10" y="3594">195.  2017-04-21 12:26:22 +0000   173785 bytes  docs/img/sitesummary-grafana.png</tspan>
+<tspan x="10" y="3610">196.  2017-04-21 12:26:22 +0000   311205 bytes  docs/img/sitesummary-grafana2.png</tspan>
+<tspan x="10" y="3626">197.  2017-04-21 12:26:22 +0000    54597 bytes  docs/img/slack.png</tspan>
+<tspan x="10" y="3642">198.  2017-04-21 12:26:22 +0000    12992 bytes  docs/img/slack/sitespeed-logo-slack-100.png</tspan>
+<tspan x="10" y="3658">199.  2017-04-21 12:26:22 +0000    12362 bytes  docs/img/slack/sitespeed-logo-slack-hm.png</tspan>
+<tspan x="10" y="3674">200.  2017-04-21 12:26:22 +0000    14387 bytes  docs/img/slack/sitespeed-logo-slack.png</tspan>
+<tspan x="10" y="3690">201.  2017-04-21 12:26:22 +0000     1179 bytes  docs/img/star2.png</tspan>
+<tspan x="10" y="3706">202.  2017-04-21 12:26:22 +0000      492 bytes  docs/img/star3.png</tspan>
+<tspan x="10" y="3722">203.  2017-04-21 12:26:22 +0000   138808 bytes  docs/img/summary-1.6.jpg</tspan>
+<tspan x="10" y="3738">204.  2017-04-21 12:26:22 +0000   124509 bytes  docs/img/summary-1.7.jpg</tspan>
+<tspan x="10" y="3754">205.  2017-04-21 12:26:22 +0000    80465 bytes  docs/img/summary-1.8.jpg</tspan>
+<tspan x="10" y="3770">206.  2017-04-21 12:26:22 +0000    71130 bytes  docs/img/summary-2.0.jpg</tspan>
+<tspan x="10" y="3786">207.  2017-04-21 12:26:22 +0000    26352 bytes  docs/img/summary-details-1.8.png</tspan>
+<tspan x="10" y="3802">208.  2017-04-21 12:26:22 +0000    91777 bytes  docs/img/summary-details-2.0.png</tspan>
+<tspan x="10" y="3818">209.  2017-04-21 12:26:22 +0000    13633 bytes  docs/img/summary.png</tspan>
+<tspan x="10" y="3834">210.  2017-04-21 12:26:22 +0000    55329 bytes  docs/img/summarylinks.png</tspan>
+<tspan x="10" y="3850">211.  2017-04-21 12:26:22 +0000    11406 bytes  docs/img/templates-page.png</tspan>
+<tspan x="10" y="3866">212.  2017-04-21 12:26:22 +0000   114330 bytes  docs/img/timeline.png</tspan>
+<tspan x="10" y="3882">213.  2017-04-21 12:26:22 +0000    75261 bytes  docs/img/timings-grafana.png</tspan>
+<tspan x="10" y="3898">214.  2017-04-21 12:26:22 +0000      247 bytes  docs/img/twitter.png</tspan>
+<tspan x="10" y="3914">215.  2017-04-21 12:26:22 +0000      517 bytes  docs/img/twitter64.png</tspan>
+<tspan x="10" y="3930">216.  2017-04-21 12:26:22 +0000   709613 bytes  docs/img/usertimings-goog_.png</tspan>
+<tspan x="10" y="3946">217.  2017-04-21 12:26:22 +0000   395562 bytes  docs/img/video-example.gif</tspan>
+<tspan x="10" y="3962">218.  2017-04-21 12:26:22 +0000    57189 bytes  docs/img/visualcomplete85.png</tspan>
+<tspan x="10" y="3978">219.  2017-04-21 12:26:22 +0000    75208 bytes  docs/img/visualmetrics.png</tspan>
+<tspan x="10" y="3994">220.  2017-04-21 12:26:22 +0000    44024 bytes  docs/img/waterfallicons.png</tspan>
+<tspan x="10" y="4010">221.  2017-04-21 12:26:22 +0000   131167 bytes  docs/img/webpagetestPageSummary.png</tspan>
+<tspan x="10" y="4026">222.  2017-04-21 12:26:22 +0000   349080 bytes  docs/img/webpagetestPageSummary2.png</tspan>
+<tspan x="10" y="4042">223.  2017-04-21 12:26:22 +0000    77599 bytes  docs/img/webpagetestSiteSummary.png</tspan>
+<tspan x="10" y="4058">224.  2017-04-21 12:26:22 +0000   156216 bytes  docs/img/webpagetestSiteSummary2.png</tspan>
+<tspan x="10" y="4074">225.  2017-04-21 12:26:22 +0000     1990 bytes  docs/index.md</tspan>
+<tspan x="10" y="4090">226.  2017-04-21 12:26:22 +0000      516 bytes  docs/logo/index.md</tspan>
+<tspan x="10" y="4106">227.  2017-04-21 12:26:22 +0000     1697 bytes  docs/release-notes/1.3/index.html</tspan>
+<tspan x="10" y="4122">228.  2017-04-21 12:26:22 +0000     3425 bytes  docs/release-notes/1.4/index.html</tspan>
+<tspan x="10" y="4138">229.  2017-04-21 12:26:22 +0000    57909 bytes  docs/release-notes/1.4/jscsssizes.png</tspan>
+<tspan x="10" y="4154">230.  2017-04-21 12:26:22 +0000    74364 bytes  docs/release-notes/1.4/jspercentage.jpg</tspan>
+<tspan x="10" y="4170">231.  2017-04-21 12:26:22 +0000    77689 bytes  docs/release-notes/1.4/median.jpg</tspan>
+<tspan x="10" y="4186">232.  2017-04-21 12:26:22 +0000    58327 bytes  docs/release-notes/1.4/sizes.png</tspan>
+<tspan x="10" y="4202">233.  2017-04-21 12:26:22 +0000     4073 bytes  docs/release-notes/1.5/index.html</tspan>
+<tspan x="10" y="4218">234.  2017-04-21 12:26:22 +0000    27662 bytes  docs/release-notes/1.6/assets.jpg</tspan>
+<tspan x="10" y="4234">235.  2017-04-21 12:26:22 +0000     9816 bytes  docs/release-notes/1.6/average.jpg</tspan>
+<tspan x="10" y="4250">236.  2017-04-21 12:26:22 +0000    31219 bytes  docs/release-notes/1.6/bydomain.jpg</tspan>
+<tspan x="10" y="4266">237.  2017-04-21 12:26:22 +0000    12769 bytes  docs/release-notes/1.6/frontback.jpg</tspan>
+<tspan x="10" y="4282">238.  2017-04-21 12:26:22 +0000     4394 bytes  docs/release-notes/1.6/index.html</tspan>
+<tspan x="10" y="4298">239.  2017-04-21 12:26:22 +0000    69862 bytes  docs/release-notes/1.6/newassets.jpg</tspan>
+<tspan x="10" y="4314">240.  2017-04-21 12:26:22 +0000    10500 bytes  docs/release-notes/1.6/page.jpg</tspan>
+<tspan x="10" y="4330">241.  2017-04-21 12:26:22 +0000    17417 bytes  docs/release-notes/1.6/summary.jpg</tspan>
+<tspan x="10" y="4346">242.  2017-04-21 12:26:22 +0000    85888 bytes  docs/release-notes/1.7/cacheable.jpg</tspan>
+<tspan x="10" y="4362">243.  2017-04-21 12:26:22 +0000    88241 bytes  docs/release-notes/1.7/dom.jpg</tspan>
+<tspan x="10" y="4378">244.  2017-04-21 12:26:22 +0000    89199 bytes  docs/release-notes/1.7/expires.jpg</tspan>
+<tspan x="10" y="4394">245.  2017-04-21 12:26:22 +0000     4901 bytes  docs/release-notes/1.7/index.html</tspan>
+<tspan x="10" y="4410">246.  2017-04-21 12:26:22 +0000    98356 bytes  docs/release-notes/1.7/summary.jpg</tspan>
+<tspan x="10" y="4426">247.  2017-04-21 12:26:22 +0000     1951 bytes  docs/release-notes/1.8.1/index.html</tspan>
+<tspan x="10" y="4442">248.  2017-04-21 12:26:22 +0000     2165 bytes  docs/release-notes/1.8.2/index.html</tspan>
+<tspan x="10" y="4458">249.  2017-04-21 12:26:22 +0000     1775 bytes  docs/release-notes/1.8.3/index.html</tspan>
+<tspan x="10" y="4474">250.  2017-04-21 12:26:22 +0000    11750 bytes  docs/release-notes/1.8/detailed-summary-large-im\</tspan>
+<tspan x="10" y="4490">age.png</tspan>
+<tspan x="10" y="4506">251.  2017-04-21 12:26:22 +0000    15282 bytes  docs/release-notes/1.8/image-weight.png</tspan>
+<tspan x="10" y="4522">252.  2017-04-21 12:26:22 +0000     3630 bytes  docs/release-notes/1.8/index.html</tspan>
+<tspan x="10" y="4538">253.  2017-04-21 12:26:22 +0000    45135 bytes  docs/release-notes/1.8/jenkins-page-weight.png</tspan>
+<tspan x="10" y="4554">254.  2017-04-21 12:26:22 +0000     3298 bytes  docs/release-notes/1.8/jquery.png</tspan>
+<tspan x="10" y="4570">255.  2017-04-21 12:26:22 +0000    39329 bytes  docs/release-notes/2.0/browser-scaled-images.png</tspan>
+<tspan x="10" y="4586">256.  2017-04-21 12:26:22 +0000    16314 bytes  docs/release-notes/2.0/columns-time.png</tspan>
+<tspan x="10" y="4602">257.  2017-04-21 12:26:22 +0000    14706 bytes  docs/release-notes/2.0/columns.png</tspan>
+<tspan x="10" y="4618">258.  2017-04-21 12:26:22 +0000     5084 bytes  docs/release-notes/2.0/index.html</tspan>
+<tspan x="10" y="4634">259.  2017-04-21 12:26:22 +0000    14525 bytes  docs/release-notes/2.0/page-specific-metrics.png</tspan>
+<tspan x="10" y="4650">260.  2017-04-21 12:26:22 +0000    32370 bytes  docs/release-notes/2.0/sites.png</tspan>
+<tspan x="10" y="4666">261.  2017-04-21 12:26:22 +0000    18218 bytes  docs/release-notes/2.0/summary.png</tspan>
+<tspan x="10" y="4682">262.  2017-04-21 12:26:22 +0000     7263 bytes  docs/release-notes/2.0/time-summary.png</tspan>
+<tspan x="10" y="4698">263.  2017-04-21 12:26:22 +0000     1276 bytes  docs/release-notes/2.1.1/index.html</tspan>
+<tspan x="10" y="4714">264.  2017-04-21 12:26:22 +0000     2912 bytes  docs/release-notes/2.1/index.html</tspan>
+<tspan x="10" y="4730">265.  2017-04-21 12:26:22 +0000      955 bytes  docs/release-notes/2.2.2/index.html</tspan>
+<tspan x="10" y="4746">266.  2017-04-21 12:26:22 +0000     1713 bytes  docs/release-notes/2.2/index.html</tspan>
+<tspan x="10" y="4762">267.  2017-04-21 12:26:22 +0000    92288 bytes  docs/release-notes/2.4/extra-info.jpg</tspan>
+<tspan x="10" y="4778">268.  2017-04-21 12:26:22 +0000     2420 bytes  docs/release-notes/2.4/index.html</tspan>
+<tspan x="10" y="4794">269.  2017-04-21 12:26:22 +0000    56654 bytes  docs/release-notes/2.4/new-fields.jpg</tspan>
+<tspan x="10" y="4810">270.  2017-04-21 12:26:22 +0000    41365 bytes  docs/release-notes/2.4/time-metrics-ie-windows.j\</tspan>
+<tspan x="10" y="4826">pg</tspan>
+<tspan x="10" y="4842">271.  2017-04-21 12:26:22 +0000    46489 bytes  docs/release-notes/2.5/2browsers.png</tspan>
+<tspan x="10" y="4858">272.  2017-04-21 12:26:22 +0000     3307 bytes  docs/release-notes/2.5/index.html</tspan>
+<tspan x="10" y="4874">273.  2017-04-21 12:26:22 +0000    55849 bytes  docs/release-notes/2.5/summaries.png</tspan>
+<tspan x="10" y="4890">274.  2017-04-21 12:26:22 +0000    10521 bytes  docs/release-notes/2.5/summary-per-browser.png</tspan>
+<tspan x="10" y="4906">275.  2017-04-21 12:26:22 +0000     4830 bytes  docs/release-notes/3.0/index.html</tspan>
+<tspan x="10" y="4922">276.  2017-04-21 12:26:22 +0000     2323 bytes  docs/release-notes/3.1/index.md</tspan>
+<tspan x="10" y="4938">277.  2017-04-21 12:26:22 +0000     2374 bytes  docs/release-notes/3.2/index.md</tspan>
+<tspan x="10" y="4954">278.  2017-04-21 12:26:22 +0000     2416 bytes  docs/release-notes/3.5/index.md</tspan>
+<tspan x="10" y="4970">279.  2017-04-21 12:26:22 +0000     2918 bytes  docs/release-notes/3.6.0/index.md</tspan>
+<tspan x="10" y="4986">280.  2017-04-21 12:26:22 +0000     2845 bytes  docs/release-notes/3.7/index.md</tspan>
+<tspan x="10" y="5002">281.  2017-04-21 12:26:22 +0000      548 bytes  docs/sitemap.xml</tspan>
+<tspan x="10" y="5018">282.  2017-04-21 12:26:22 +0000   155624 bytes  docs/video/0.mp4</tspan>
+<tspan x="10" y="5034">283.  2017-04-21 12:26:22 +0000      124 bytes  grafana-setup/Dockerfile</tspan>
+<tspan x="10" y="5050">284.  2017-04-21 12:26:22 +0000    26906 bytes  grafana-setup/dashboards/3rdvs1stparty.json</tspan>
+<tspan x="10" y="5066">285.  2017-04-21 12:26:22 +0000    88393 bytes  grafana-setup/dashboards/pageSummary.json</tspan>
+<tspan x="10" y="5082">286.  2017-04-21 12:26:22 +0000    94551 bytes  grafana-setup/dashboards/siteSummary.json</tspan>
+<tspan x="10" y="5098">287.  2017-04-21 12:26:22 +0000    13419 bytes  grafana-setup/dashboards/timings.json</tspan>
+<tspan x="10" y="5114">288.  2017-04-21 12:26:22 +0000    13941 bytes  grafana-setup/dashboards/visualMetrics.json</tspan>
+<tspan x="10" y="5130">289.  2017-04-21 12:26:22 +0000    36421 bytes  grafana-setup/dashboards/wptPageSummary.json</tspan>
+<tspan x="10" y="5146">290.  2017-04-21 12:26:22 +0000    28007 bytes  grafana-setup/dashboards/wptSiteSummary.json</tspan>
+<tspan x="10" y="5162">291.  2017-04-21 12:26:22 +0000      205 bytes  grafana-setup/datasources/graphite.json</tspan>
+<tspan x="10" y="5178">292.  2017-04-21 12:26:22 +0000      230 bytes  grafana-setup/datasources/influxdb.json</tspan>
+<tspan x="10" y="5194">293.  2017-04-21 12:26:22 +0000      732 bytes  grafana-setup/entrypoint.sh</tspan>
+<tspan x="10" y="5210">294.  2017-04-21 12:26:22 +0000      870 bytes  lib/plugins/analysisstorer/index.js</tspan>
+<tspan x="10" y="5226">295.  2017-04-21 12:26:22 +0000     2812 bytes  lib/plugins/assets/aggregator.js</tspan>
+<tspan x="10" y="5242">296.  2017-04-21 12:26:22 +0000     1234 bytes  lib/plugins/assets/assetsBySize.js</tspan>
+<tspan x="10" y="5258">297.  2017-04-21 12:26:22 +0000     1202 bytes  lib/plugins/assets/assetsBySpeed.js</tspan>
+<tspan x="10" y="5274">298.  2017-04-21 12:26:22 +0000     1854 bytes  lib/plugins/assets/index.js</tspan>
+<tspan x="10" y="5290">299.  2017-04-21 12:26:22 +0000     3204 bytes  lib/plugins/browsertime/aggregator.js</tspan>
+<tspan x="10" y="5306">300.  2017-04-21 12:26:22 +0000     2333 bytes  lib/plugins/browsertime/analyzer.js</tspan>
+<tspan x="10" y="5322">301.  2017-04-21 12:26:22 +0000     8584 bytes  lib/plugins/browsertime/index.js</tspan>
+<tspan x="10" y="5338">302.  2017-04-21 12:26:22 +0000     1628 bytes  lib/plugins/budget/index.js</tspan>
+<tspan x="10" y="5354">303.  2017-04-21 12:26:22 +0000     1411 bytes  lib/plugins/budget/junit.js</tspan>
+<tspan x="10" y="5370">304.  2017-04-21 12:26:22 +0000      981 bytes  lib/plugins/budget/tap.js</tspan>
+<tspan x="10" y="5386">305.  2017-04-21 12:26:22 +0000     2122 bytes  lib/plugins/budget/verify.js</tspan>
+<tspan x="10" y="5402">306.  2017-04-21 12:26:22 +0000     1784 bytes  lib/plugins/coach/aggregator.js</tspan>
+<tspan x="10" y="5418">307.  2017-04-21 12:26:22 +0000     3404 bytes  lib/plugins/coach/index.js</tspan>
+<tspan x="10" y="5434">308.  2017-04-21 12:26:22 +0000     3718 bytes  lib/plugins/coach/pagexrayAggregator.js</tspan>
+<tspan x="10" y="5450">309.  2017-04-21 12:26:22 +0000     2627 bytes  lib/plugins/crawler/index.js</tspan>
+<tspan x="10" y="5466">310.  2017-04-21 12:26:22 +0000     1492 bytes  lib/plugins/datacollector/dataCollector.js</tspan>
+<tspan x="10" y="5482">311.  2017-04-21 12:26:22 +0000     3361 bytes  lib/plugins/datacollector/index.js</tspan>
+<tspan x="10" y="5498">312.  2017-04-21 12:26:22 +0000     3008 bytes  lib/plugins/domains/aggregator.js</tspan>
+<tspan x="10" y="5514">313.  2017-04-21 12:26:22 +0000      945 bytes  lib/plugins/domains/index.js</tspan>
+<tspan x="10" y="5530">314.  2017-04-21 12:26:22 +0000      726 bytes  lib/plugins/gpsi/aggregator.js</tspan>
+<tspan x="10" y="5546">315.  2017-04-21 12:26:22 +0000      555 bytes  lib/plugins/gpsi/analyzer.js</tspan>
+<tspan x="10" y="5562">316.  2017-04-21 12:26:22 +0000     1752 bytes  lib/plugins/gpsi/index.js</tspan>
+<tspan x="10" y="5578">317.  2017-04-21 12:26:22 +0000     2011 bytes  lib/plugins/graphite/data-generator.js</tspan>
+<tspan x="10" y="5594">318.  2017-04-21 12:26:22 +0000     2396 bytes  lib/plugins/graphite/index.js</tspan>
+<tspan x="10" y="5610">319.  2017-04-21 12:26:22 +0000     2369 bytes  lib/plugins/graphite/send-annotation.js</tspan>
+<tspan x="10" y="5626">320.  2017-04-21 12:26:22 +0000      587 bytes  lib/plugins/graphite/sender.js</tspan>
+<tspan x="10" y="5642">321.  2017-04-21 12:26:22 +0000      863 bytes  lib/plugins/graphite/util.js</tspan>
+<tspan x="10" y="5658">322.  2017-04-21 12:26:22 +0000      706 bytes  lib/plugins/harstorer/index.js</tspan>
+<tspan x="10" y="5674">323.  2017-04-21 12:26:22 +0000    77298 bytes  lib/plugins/html/assets/css/index.css</tspan>
+<tspan x="10" y="5690">324.  2017-04-21 12:26:22 +0000    61204 bytes  lib/plugins/html/assets/css/index.min.css</tspan>
+<tspan x="10" y="5706">325.  2017-04-21 12:26:22 +0000     1929 bytes  lib/plugins/html/assets/img/browsertime64.png</tspan>
+<tspan x="10" y="5722">326.  2017-04-21 12:26:22 +0000     7787 bytes  lib/plugins/html/assets/img/coach.png</tspan>
+<tspan x="10" y="5738">327.  2017-04-21 12:26:22 +0000     1582 bytes  lib/plugins/html/assets/img/coach64.png</tspan>
+<tspan x="10" y="5754">328.  2017-04-21 12:26:22 +0000     1923 bytes  lib/plugins/html/assets/img/gpsi64.png</tspan>
+<tspan x="10" y="5770">329.  2017-04-21 12:26:22 +0000     5218 bytes  lib/plugins/html/assets/img/ico/sitespeed.io-114\</tspan>
+<tspan x="10" y="5786">.png</tspan>
+<tspan x="10" y="5802">330.  2017-04-21 12:26:22 +0000     7216 bytes  lib/plugins/html/assets/img/ico/sitespeed.io-144\</tspan>
+<tspan x="10" y="5818">.png</tspan>
+<tspan x="10" y="5834">331.  2017-04-21 12:26:22 +0000     2770 bytes  lib/plugins/html/assets/img/ico/sitespeed.io-72.\</tspan>
+<tspan x="10" y="5850">png</tspan>
+<tspan x="10" y="5866">332.  2017-04-21 12:26:22 +0000     6518 bytes  lib/plugins/html/assets/img/ico/sitespeed.io.ico</tspan>
+<tspan x="10" y="5882">333.  2017-04-21 12:26:22 +0000     3717 bytes  lib/plugins/html/assets/img/sitespeed.io-logo.pn\</tspan>
+<tspan x="10" y="5898">g</tspan>
+<tspan x="10" y="5914">334.  2017-04-21 12:26:22 +0000     1882 bytes  lib/plugins/html/assets/img/summary64.png</tspan>
+<tspan x="10" y="5930">335.  2017-04-21 12:26:22 +0000     1794 bytes  lib/plugins/html/assets/img/video64.png</tspan>
+<tspan x="10" y="5946">336.  2017-04-21 12:26:22 +0000      869 bytes  lib/plugins/html/assets/img/webpagetest64.png</tspan>
+<tspan x="10" y="5962">337.  2017-04-21 12:26:22 +0000     2222 bytes  lib/plugins/html/assets/img/xray64.png</tspan>
+<tspan x="10" y="5978">338.  2017-04-21 12:26:22 +0000     7252 bytes  lib/plugins/html/assets/js/fetch.min.js</tspan>
+<tspan x="10" y="5994">339.  2017-04-21 12:26:22 +0000    12382 bytes  lib/plugins/html/assets/js/gunzip.min.js</tspan>
+<tspan x="10" y="6010">340.  2017-04-21 12:26:22 +0000    62941 bytes  lib/plugins/html/assets/js/perf-cascade.min.js</tspan>
+<tspan x="10" y="6026">341.  2017-04-21 12:26:22 +0000     3398 bytes  lib/plugins/html/assets/js/sortable.min.js</tspan>
+<tspan x="10" y="6042">342.  2017-04-21 12:26:22 +0000   255281 bytes  lib/plugins/html/assets/js/video.min.js</tspan>
+<tspan x="10" y="6058">343.  2017-04-21 12:26:22 +0000     6571 bytes  lib/plugins/html/htmlBuilder.js</tspan>
+<tspan x="10" y="6074">344.  2017-04-21 12:26:22 +0000      538 bytes  lib/plugins/html/index.js</tspan>
+<tspan x="10" y="6090">345.  2017-04-21 12:26:22 +0000      668 bytes  lib/plugins/html/renderer.js</tspan>
+<tspan x="10" y="6106">346.  2017-04-21 12:26:22 +0000      806 bytes  lib/plugins/html/src/sass/components/buttons.scs\</tspan>
+<tspan x="10" y="6122">s</tspan>
+<tspan x="10" y="6138">347.  2017-04-21 12:26:22 +0000      487 bytes  lib/plugins/html/src/sass/components/groupitem.s\</tspan>
+<tspan x="10" y="6154">css</tspan>
+<tspan x="10" y="6170">348.  2017-04-21 12:26:22 +0000      960 bytes  lib/plugins/html/src/sass/components/loader.scss</tspan>
+<tspan x="10" y="6186">349.  2017-04-21 12:26:22 +0000      951 bytes  lib/plugins/html/src/sass/components/misc.scss</tspan>
+<tspan x="10" y="6202">350.  2017-04-21 12:26:22 +0000     1984 bytes  lib/plugins/html/src/sass/components/navigation.\</tspan>
+<tspan x="10" y="6218">scss</tspan>
+<tspan x="10" y="6234">351.  2017-04-21 12:26:22 +0000      147 bytes  lib/plugins/html/src/sass/components/screenshot.\</tspan>
+<tspan x="10" y="6250">scss</tspan>
+<tspan x="10" y="6266">352.  2017-04-21 12:26:22 +0000      293 bytes  lib/plugins/html/src/sass/components/sortable.sc\</tspan>
+<tspan x="10" y="6282">ss</tspan>
+<tspan x="10" y="6298">353.  2017-04-21 12:26:22 +0000      741 bytes  lib/plugins/html/src/sass/components/summarybox.\</tspan>
+<tspan x="10" y="6314">scss</tspan>
+<tspan x="10" y="6330">354.  2017-04-21 12:26:22 +0000     1316 bytes  lib/plugins/html/src/sass/components/tabs.scss</tspan>
+<tspan x="10" y="6346">355.  2017-04-21 12:26:22 +0000    46462 bytes  lib/plugins/html/src/sass/components/video.scss</tspan>
+<tspan x="10" y="6362">356.  2017-04-21 12:26:22 +0000      309 bytes  lib/plugins/html/src/sass/components/videoExtras\</tspan>
+<tspan x="10" y="6378">.scss</tspan>
+<tspan x="10" y="6394">357.  2017-04-21 12:26:22 +0000     7943 bytes  lib/plugins/html/src/sass/components/waterfall.s\</tspan>
+<tspan x="10" y="6410">css</tspan>
+<tspan x="10" y="6426">358.  2017-04-21 12:26:22 +0000      805 bytes  lib/plugins/html/src/sass/components/waterfallEx\</tspan>
+<tspan x="10" y="6442">tras.scss</tspan>
+<tspan x="10" y="6458">359.  2017-04-21 12:26:22 +0000      665 bytes  lib/plugins/html/src/sass/foundations/base.scss</tspan>
+<tspan x="10" y="6474">360.  2017-04-21 12:26:22 +0000     2675 bytes  lib/plugins/html/src/sass/foundations/grid.scss</tspan>
+<tspan x="10" y="6490">361.  2017-04-21 12:26:22 +0000     7289 bytes  lib/plugins/html/src/sass/foundations/normalize.\</tspan>
+<tspan x="10" y="6506">scss</tspan>
+<tspan x="10" y="6522">362.  2017-04-21 12:26:22 +0000     2340 bytes  lib/plugins/html/src/sass/foundations/tables.scs\</tspan>
+<tspan x="10" y="6538">s</tspan>
+<tspan x="10" y="6554">363.  2017-04-21 12:26:22 +0000     1170 bytes  lib/plugins/html/src/sass/foundations/typography\</tspan>
+<tspan x="10" y="6570">.scss</tspan>
+<tspan x="10" y="6586">364.  2017-04-21 12:26:22 +0000      310 bytes  lib/plugins/html/src/sass/foundations/utilies.sc\</tspan>
+<tspan x="10" y="6602">ss</tspan>
+<tspan x="10" y="6618">365.  2017-04-21 12:26:22 +0000      812 bytes  lib/plugins/html/src/sass/main.scss</tspan>
+<tspan x="10" y="6634">366.  2017-04-21 12:26:22 +0000      747 bytes  lib/plugins/html/src/sass/utilities/settings.scs\</tspan>
+<tspan x="10" y="6650">s</tspan>
+<tspan x="10" y="6666">367.  2017-04-21 12:26:22 +0000      624 bytes  lib/plugins/html/templates/_tableMixins.pug</tspan>
+<tspan x="10" y="6682">368.  2017-04-21 12:26:22 +0000      933 bytes  lib/plugins/html/templates/assets.pug</tspan>
+<tspan x="10" y="6698">369.  2017-04-21 12:26:22 +0000      656 bytes  lib/plugins/html/templates/budget.pug</tspan>
+<tspan x="10" y="6714">370.  2017-04-21 12:26:22 +0000     1102 bytes  lib/plugins/html/templates/detailed.pug</tspan>
+<tspan x="10" y="6730">371.  2017-04-21 12:26:22 +0000     1078 bytes  lib/plugins/html/templates/domains.pug</tspan>
+<tspan x="10" y="6746">372.  2017-04-21 12:26:22 +0000      271 bytes  lib/plugins/html/templates/errors.pug</tspan>
+<tspan x="10" y="6762">373.  2017-04-21 12:26:22 +0000      288 bytes  lib/plugins/html/templates/footer.pug</tspan>
+<tspan x="10" y="6778">374.  2017-04-21 12:26:22 +0000      682 bytes  lib/plugins/html/templates/header.pug</tspan>
+<tspan x="10" y="6794">375.  2017-04-21 12:26:22 +0000     6933 bytes  lib/plugins/html/templates/help.pug</tspan>
+<tspan x="10" y="6810">376.  2017-04-21 12:26:22 +0000      849 bytes  lib/plugins/html/templates/index.pug</tspan>
+<tspan x="10" y="6826">377.  2017-04-21 12:26:22 +0000     1040 bytes  lib/plugins/html/templates/layout.pug</tspan>
+<tspan x="10" y="6842">378.  2017-04-21 12:26:22 +0000     1919 bytes  lib/plugins/html/templates/pages.pug</tspan>
+<tspan x="10" y="6858">379.  2017-04-21 12:26:22 +0000      491 bytes  lib/plugins/html/templates/runInfo.pug</tspan>
+<tspan x="10" y="6874">380.  2017-04-21 12:26:22 +0000     1488 bytes  lib/plugins/html/templates/toplist.pug</tspan>
+<tspan x="10" y="6890">381.  2017-04-21 12:26:22 +0000     2515 bytes  lib/plugins/html/templates/url/browsertime/index\</tspan>
+<tspan x="10" y="6906">.pug</tspan>
+<tspan x="10" y="6922">382.  2017-04-21 12:26:22 +0000      528 bytes  lib/plugins/html/templates/url/browsertime/video\</tspan>
+<tspan x="10" y="6938">Element.pug</tspan>
+<tspan x="10" y="6954">383.  2017-04-21 12:26:22 +0000     4382 bytes  lib/plugins/html/templates/url/coach/index.pug</tspan>
+<tspan x="10" y="6970">384.  2017-04-21 12:26:22 +0000      941 bytes  lib/plugins/html/templates/url/gpsi/index.pug</tspan>
+<tspan x="10" y="6986">385.  2017-04-21 12:26:22 +0000     3507 bytes  lib/plugins/html/templates/url/index.pug</tspan>
+<tspan x="10" y="7002">386.  2017-04-21 12:26:22 +0000       22 bytes  lib/plugins/html/templates/url/layout.pug</tspan>
+<tspan x="10" y="7018">387.  2017-04-21 12:26:22 +0000      389 bytes  lib/plugins/html/templates/url/pageRunInfo.pug</tspan>
+<tspan x="10" y="7034">388.  2017-04-21 12:26:22 +0000     3852 bytes  lib/plugins/html/templates/url/pagexray/index.pu\</tspan>
+<tspan x="10" y="7050">g</tspan>
+<tspan x="10" y="7066">389.  2017-04-21 12:26:22 +0000     3319 bytes  lib/plugins/html/templates/url/run.pug</tspan>
+<tspan x="10" y="7082">390.  2017-04-21 12:26:22 +0000     3384 bytes  lib/plugins/html/templates/url/summaryBox.pug</tspan>
+<tspan x="10" y="7098">391.  2017-04-21 12:26:22 +0000     1951 bytes  lib/plugins/html/templates/url/tabs.pug</tspan>
+<tspan x="10" y="7114">392.  2017-04-21 12:26:22 +0000     1703 bytes  lib/plugins/html/templates/url/waterfall/fetchHA\</tspan>
+<tspan x="10" y="7130">R.pug</tspan>
+<tspan x="10" y="7146">393.  2017-04-21 12:26:22 +0000      720 bytes  lib/plugins/html/templates/url/waterfall/include\</tspan>
+<tspan x="10" y="7162">HARinHTML.pug</tspan>
+<tspan x="10" y="7178">394.  2017-04-21 12:26:22 +0000      352 bytes  lib/plugins/html/templates/url/waterfall/index.p\</tspan>
+<tspan x="10" y="7194">ug</tspan>
+<tspan x="10" y="7210">395.  2017-04-21 12:26:22 +0000     1815 bytes  lib/plugins/html/templates/url/webpagetest/index\</tspan>
+<tspan x="10" y="7226">.pug</tspan>
+<tspan x="10" y="7242">396.  2017-04-21 12:26:22 +0000     1733 bytes  lib/plugins/html/templates/url/webpagetest/run.p\</tspan>
+<tspan x="10" y="7258">ug</tspan>
+<tspan x="10" y="7274">397.  2017-04-21 12:26:22 +0000     1009 bytes  lib/plugins/influxdb/data-generator.js</tspan>
+<tspan x="10" y="7290">398.  2017-04-21 12:26:22 +0000     1365 bytes  lib/plugins/influxdb/index.js</tspan>
+<tspan x="10" y="7306">399.  2017-04-21 12:26:22 +0000      551 bytes  lib/plugins/influxdb/sender.js</tspan>
+<tspan x="10" y="7322">400.  2017-04-21 12:26:22 +0000     1046 bytes  lib/plugins/messagelogger/index.js</tspan>
+<tspan x="10" y="7338">401.  2017-04-21 12:26:22 +0000     2656 bytes  lib/plugins/metrics/index.js</tspan>
+<tspan x="10" y="7354">402.  2017-04-21 12:26:22 +0000     2827 bytes  lib/plugins/s3/index.js</tspan>
+<tspan x="10" y="7370">403.  2017-04-21 12:26:22 +0000      747 bytes  lib/plugins/screenshot/index.js</tspan>
+<tspan x="10" y="7386">404.  2017-04-21 12:26:22 +0000     3429 bytes  lib/plugins/slack/attachements.js</tspan>
+<tspan x="10" y="7402">405.  2017-04-21 12:26:22 +0000     2085 bytes  lib/plugins/slack/index.js</tspan>
+<tspan x="10" y="7418">406.  2017-04-21 12:26:22 +0000     2482 bytes  lib/plugins/slack/summary.js</tspan>
+<tspan x="10" y="7434">407.  2017-04-21 12:26:22 +0000      497 bytes  lib/plugins/text/index.js</tspan>
+<tspan x="10" y="7450">408.  2017-04-21 12:26:22 +0000     2710 bytes  lib/plugins/text/textBuilder.js</tspan>
+<tspan x="10" y="7466">409.  2017-04-21 12:26:22 +0000      628 bytes  lib/plugins/tracestorer/index.js</tspan>
+<tspan x="10" y="7482">410.  2017-04-21 12:26:22 +0000     3674 bytes  lib/plugins/webpagetest/aggregator.js</tspan>
+<tspan x="10" y="7498">411.  2017-04-21 12:26:22 +0000     1710 bytes  lib/plugins/webpagetest/analyzer.js</tspan>
+<tspan x="10" y="7514">412.  2017-04-21 12:26:22 +0000     4511 bytes  lib/plugins/webpagetest/index.js</tspan>
+<tspan x="10" y="7530">413.  2017-04-21 12:26:22 +0000     4681 bytes  lib/sitespeed.js</tspan>
+<tspan x="10" y="7546">414.  2017-04-21 12:26:22 +0000    19546 bytes  lib/support/cli.js</tspan>
+<tspan x="10" y="7562">415.  2017-04-21 12:26:22 +0000     1388 bytes  lib/support/cliUtil.js</tspan>
+<tspan x="10" y="7578">416.  2017-04-21 12:26:22 +0000      902 bytes  lib/support/dataCollection.js</tspan>
+<tspan x="10" y="7594">417.  2017-04-21 12:26:22 +0000      999 bytes  lib/support/filterRegistry.js</tspan>
+<tspan x="10" y="7610">418.  2017-04-21 12:26:22 +0000     3187 bytes  lib/support/flattenMessage.js</tspan>
+<tspan x="10" y="7626">419.  2017-04-21 12:26:22 +0000      117 bytes  lib/support/helpers/cap.js</tspan>
+<tspan x="10" y="7642">420.  2017-04-21 12:26:22 +0000      260 bytes  lib/support/helpers/get.js</tspan>
+<tspan x="10" y="7658">421.  2017-04-21 12:26:22 +0000      342 bytes  lib/support/helpers/index.js</tspan>
+<tspan x="10" y="7674">422.  2017-04-21 12:26:22 +0000      203 bytes  lib/support/helpers/label.js</tspan>
+<tspan x="10" y="7690">423.  2017-04-21 12:26:22 +0000       69 bytes  lib/support/helpers/noop.js</tspan>
+<tspan x="10" y="7706">424.  2017-04-21 12:26:22 +0000      154 bytes  lib/support/helpers/plural.js</tspan>
+<tspan x="10" y="7722">425.  2017-04-21 12:26:22 +0000      185 bytes  lib/support/helpers/scoreLabel.js</tspan>
+<tspan x="10" y="7738">426.  2017-04-21 12:26:22 +0000      150 bytes  lib/support/helpers/short.js</tspan>
+<tspan x="10" y="7754">427.  2017-04-21 12:26:22 +0000      205 bytes  lib/support/helpers/shortAsset.js</tspan>
+<tspan x="10" y="7770">428.  2017-04-21 12:26:22 +0000      462 bytes  lib/support/helpers/size.js</tspan>
+<tspan x="10" y="7786">429.  2017-04-21 12:26:22 +0000     1163 bytes  lib/support/helpers/time.js</tspan>
+<tspan x="10" y="7802">430.  2017-04-21 12:26:22 +0000      584 bytes  lib/support/logging.js</tspan>
+<tspan x="10" y="7818">431.  2017-04-21 12:26:22 +0000      361 bytes  lib/support/messageMaker.js</tspan>
+<tspan x="10" y="7834">432.  2017-04-21 12:26:22 +0000     2106 bytes  lib/support/metricsFilter.js</tspan>
+<tspan x="10" y="7850">433.  2017-04-21 12:26:22 +0000     1826 bytes  lib/support/pluginLoader.js</tspan>
+<tspan x="10" y="7866">434.  2017-04-21 12:26:22 +0000     5075 bytes  lib/support/queueHandler.js</tspan>
+<tspan x="10" y="7882">435.  2017-04-21 12:26:22 +0000     1863 bytes  lib/support/queueStatistics.js</tspan>
+<tspan x="10" y="7898">436.  2017-04-21 12:26:22 +0000     3724 bytes  lib/support/setup/detailed.js</tspan>
+<tspan x="10" y="7914">437.  2017-04-21 12:26:22 +0000     5330 bytes  lib/support/setup/summaryBoxes.js</tspan>
+<tspan x="10" y="7930">438.  2017-04-21 12:26:22 +0000     1769 bytes  lib/support/statsHelpers.js</tspan>
+<tspan x="10" y="7946">439.  2017-04-21 12:26:22 +0000     3605 bytes  lib/support/storageManager.js</tspan>
+<tspan x="10" y="7962">440.  2017-04-21 12:26:22 +0000      397 bytes  lib/support/url-source.js</tspan>
+<tspan x="10" y="7978">441.  2017-04-21 12:26:22 +0000      576 bytes  lib/support/util.js</tspan>
+<tspan x="10" y="7994">442.  2017-04-21 12:26:22 +0000     1303 bytes  local-development-docker.md</tspan>
+<tspan x="10" y="8010">443.  2017-04-21 12:26:22 +0000     2767 bytes  package.json</tspan>
+<tspan x="10" y="8026">444.  2017-04-21 12:26:22 +0000      589 bytes  release.sh</tspan>
+<tspan x="10" y="8042">445.  2017-04-21 12:26:22 +0000      914 bytes  test/budget.json</tspan>
+<tspan x="10" y="8058">446.  2017-04-21 12:26:22 +0000     1243 bytes  test/cliUtilTests.js</tspan>
+<tspan x="10" y="8074">447.  2017-04-21 12:26:22 +0000      558 bytes  test/coachTests.js</tspan>
+<tspan x="10" y="8090">448.  2017-04-21 12:26:22 +0000      901 bytes  test/domainTests.js</tspan>
+<tspan x="10" y="8106">449.  2017-04-21 12:26:22 +0000    23459 bytes  test/fixtures/coach.run-0.json</tspan>
+<tspan x="10" y="8122">450.  2017-04-21 12:26:22 +0000       24 bytes  test/fixtures/one-url.txt</tspan>
+<tspan x="10" y="8138">451.  2017-04-21 12:26:22 +0000      208 bytes  test/fixtures/sitespeed-urls-aliases.txt</tspan>
+<tspan x="10" y="8154">452.  2017-04-21 12:26:22 +0000      181 bytes  test/fixtures/sitespeed-urls.txt</tspan>
+<tspan x="10" y="8170">453.  2017-04-21 12:26:22 +0000       73 bytes  test/fixtures/three-urls.txt</tspan>
+<tspan x="10" y="8186">454.  2017-04-21 12:26:22 +0000   122613 bytes  test/fixtures/webpagetest.data.json</tspan>
+<tspan x="10" y="8202">455.  2017-04-21 12:26:22 +0000   205225 bytes  test/fixtures/webpagetest2.data.json</tspan>
+<tspan x="10" y="8218">456.  2017-04-21 12:26:22 +0000    55461 bytes  test/fixtures/www-sitespeed-io.har</tspan>
+<tspan x="10" y="8234">457.  2017-04-21 12:26:22 +0000  1067088 bytes  test/fixtures/www-theverge-com.har</tspan>
+<tspan x="10" y="8250">458.  2017-04-21 12:26:22 +0000     1916 bytes  test/graphiteTests.js</tspan>
+<tspan x="10" y="8266">459.  2017-04-21 12:26:22 +0000      197 bytes  test/helpers/first.js</tspan>
+<tspan x="10" y="8282">460.  2017-04-21 12:26:22 +0000     1018 bytes  test/influxdbTests.js</tspan>
+<tspan x="10" y="8298">461.  2017-04-21 12:26:22 +0000     4832 bytes  test/metricsFilterTests.js</tspan>
+<tspan x="10" y="8314">462.  2017-04-21 12:26:22 +0000       74 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="8330">463.  2017-04-21 12:26:22 +0000       91 bytes  test/prepostscripts/postSample.js</tspan>
+<tspan x="10" y="8346">464.  2017-04-21 12:26:22 +0000      492 bytes  test/prepostscripts/preSample.js</tspan>
+<tspan x="10" y="8362">465.  2017-04-21 12:26:22 +0000      469 bytes  test/runWithoutCli.js</tspan>
+<tspan x="10" y="8378">466.  2017-04-21 12:26:22 +0000     1814 bytes  test/storageManagerTests.js</tspan>
+<tspan x="10" y="8394">467.  2017-04-21 12:26:22 +0000      580 bytes  test/webpagetestTests.js</tspan>
+<tspan x="10" y="8410">468.  2017-04-21 12:26:22 +0000      886 bytes  tools/check-licenses.js</tspan>
+<tspan x="10" y="8426">469.  2017-04-21 12:26:22 +0000      304 bytes  tools/graphite/docker-compose.yml</tspan>
+<tspan x="10" y="8442">470.  2017-04-21 12:26:22 +0000      484 bytes  tools/influxdb/docker-compose.yml</tspan>
+<tspan x="10" y="8458">471.  2017-04-21 12:26:22 +0000      468 bytes  tools/loc.sh</tspan>
+<tspan x="10" y="8474">472.  2017-04-21 12:26:22 +0000      372 bytes  tools/tcp-server.js</tspan>
+</text>
+</svg>

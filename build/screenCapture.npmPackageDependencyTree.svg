@@ -1,0 +1,642 @@
+<svg height="10222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="10222" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">139 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ sitespeed.io@4.7.0 </tspan>
+<tspan x="10" y="90">  ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="106">  ├─┬ browsertime@1.0.0-beta.31 </tspan>
+<tspan x="10" y="122">  │ ├─┬ alto-saxophone@2.28.0 </tspan>
+<tspan x="10" y="138">  │ │ ├─┬ download@4.4.3 </tspan>
+<tspan x="10" y="154">  │ │ │ ├─┬ caw@1.2.0 </tspan>
+<tspan x="10" y="170">  │ │ │ │ ├─┬ get-proxy@1.1.0 </tspan>
+<tspan x="10" y="186">  │ │ │ │ │ └─┬ rc@1.2.1 </tspan>
+<tspan x="10" y="202">  │ │ │ │ │   ├── deep-extend@0.4.1 </tspan>
+<tspan x="10" y="218">  │ │ │ │ │   ├── ini@1.3.4 </tspan>
+<tspan x="10" y="234">  │ │ │ │ │   └── strip-json-comments@2.0.1 </tspan>
+<tspan x="10" y="250">  │ │ │ │ ├── is-obj@1.0.1 </tspan>
+<tspan x="10" y="266">  │ │ │ │ └── object-assign@3.0.0 </tspan>
+<tspan x="10" y="282">  │ │ │ ├─┬ concat-stream@1.6.0 </tspan>
+<tspan x="10" y="298">  │ │ │ │ └── typedarray@0.0.6 </tspan>
+<tspan x="10" y="314">  │ │ │ ├─┬ each-async@1.1.1 </tspan>
+<tspan x="10" y="330">  │ │ │ │ ├── onetime@1.1.0 </tspan>
+<tspan x="10" y="346">  │ │ │ │ └── set-immediate-shim@1.0.1 </tspan>
+<tspan x="10" y="362">  │ │ │ ├─┬ filenamify@1.2.1 </tspan>
+<tspan x="10" y="378">  │ │ │ │ ├── filename-reserved-regex@1.0.0 </tspan>
+<tspan x="10" y="394">  │ │ │ │ ├── strip-outer@1.0.0 </tspan>
+<tspan x="10" y="410">  │ │ │ │ └── trim-repeated@1.0.0 </tspan>
+<tspan x="10" y="426">  │ │ │ ├─┬ got@5.7.1 </tspan>
+<tspan x="10" y="442">  │ │ │ │ ├── create-error-class@3.0.2 </tspan>
+<tspan x="10" y="458">  │ │ │ │ ├── duplexer2@0.1.4 </tspan>
+<tspan x="10" y="474">  │ │ │ │ ├── is-redirect@1.0.0 </tspan>
+<tspan x="10" y="490">  │ │ │ │ ├── is-retry-allowed@1.1.0 </tspan>
+<tspan x="10" y="506">  │ │ │ │ ├── lowercase-keys@1.0.0 </tspan>
+<tspan x="10" y="522">  │ │ │ │ ├── node-status-codes@1.0.0 </tspan>
+<tspan x="10" y="538">  │ │ │ │ ├─┬ parse-json@2.2.0 </tspan>
+<tspan x="10" y="554">  │ │ │ │ │ └─┬ error-ex@1.3.1 </tspan>
+<tspan x="10" y="570">  │ │ │ │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="586">  │ │ │ │ ├── timed-out@3.1.3 </tspan>
+<tspan x="10" y="602">  │ │ │ │ ├── unzip-response@1.0.2 </tspan>
+<tspan x="10" y="618">  │ │ │ │ └─┬ url-parse-lax@1.0.0 </tspan>
+<tspan x="10" y="634">  │ │ │ │   └── prepend-http@1.0.4 </tspan>
+<tspan x="10" y="650">  │ │ │ ├─┬ gulp-decompress@1.2.0 </tspan>
+<tspan x="10" y="666">  │ │ │ │ ├─┬ archive-type@3.2.0 </tspan>
+<tspan x="10" y="682">  │ │ │ │ │ └── file-type@3.9.0 </tspan>
+<tspan x="10" y="698">  │ │ │ │ ├─┬ decompress@3.0.0 </tspan>
+<tspan x="10" y="714">  │ │ │ │ │ ├─┬ buffer-to-vinyl@1.1.0 </tspan>
+<tspan x="10" y="730">  │ │ │ │ │ │ └── uuid@2.0.3 </tspan>
+<tspan x="10" y="746">  │ │ │ │ │ ├─┬ decompress-tar@3.1.0 </tspan>
+<tspan x="10" y="762">  │ │ │ │ │ │ ├── is-tar@1.0.0 </tspan>
+<tspan x="10" y="778">  │ │ │ │ │ │ ├── object-assign@2.1.1 </tspan>
+<tspan x="10" y="794">  │ │ │ │ │ │ ├─┬ strip-dirs@1.1.1 </tspan>
+<tspan x="10" y="810">  │ │ │ │ │ │ │ ├─┬ is-absolute@0.1.7 </tspan>
+<tspan x="10" y="826">  │ │ │ │ │ │ │ │ └── is-relative@0.1.3 </tspan>
+<tspan x="10" y="842">  │ │ │ │ │ │ │ ├── is-natural-number@2.1.1 </tspan>
+<tspan x="10" y="858">  │ │ │ │ │ │ │ └── sum-up@1.0.3 </tspan>
+<tspan x="10" y="874">  │ │ │ │ │ │ ├─┬ tar-stream@1.5.2 </tspan>
+<tspan x="10" y="890">  │ │ │ │ │ │ │ ├── bl@1.2.0 </tspan>
+<tspan x="10" y="906">  │ │ │ │ │ │ │ └── end-of-stream@1.4.0 </tspan>
+<tspan x="10" y="922">  │ │ │ │ │ │ └─┬ vinyl@0.4.6 </tspan>
+<tspan x="10" y="938">  │ │ │ │ │ │   └── clone@0.2.0 </tspan>
+<tspan x="10" y="954">  │ │ │ │ │ ├─┬ decompress-tarbz2@3.1.0 </tspan>
+<tspan x="10" y="970">  │ │ │ │ │ │ ├── is-bzip2@1.0.0 </tspan>
+<tspan x="10" y="986">  │ │ │ │ │ │ ├── object-assign@2.1.1 </tspan>
+<tspan x="10" y="1002">  │ │ │ │ │ │ ├── seek-bzip@1.0.5 </tspan>
+<tspan x="10" y="1018">  │ │ │ │ │ │ └─┬ vinyl@0.4.6 </tspan>
+<tspan x="10" y="1034">  │ │ │ │ │ │   └── clone@0.2.0 </tspan>
+<tspan x="10" y="1050">  │ │ │ │ │ ├─┬ decompress-targz@3.1.0 </tspan>
+<tspan x="10" y="1066">  │ │ │ │ │ │ ├── is-gzip@1.0.0 </tspan>
+<tspan x="10" y="1082">  │ │ │ │ │ │ ├── object-assign@2.1.1 </tspan>
+<tspan x="10" y="1098">  │ │ │ │ │ │ └─┬ vinyl@0.4.6 </tspan>
+<tspan x="10" y="1114">  │ │ │ │ │ │   └── clone@0.2.0 </tspan>
+<tspan x="10" y="1130">  │ │ │ │ │ ├─┬ decompress-unzip@3.4.0 </tspan>
+<tspan x="10" y="1146">  │ │ │ │ │ │ ├── is-zip@1.0.0 </tspan>
+<tspan x="10" y="1162">  │ │ │ │ │ │ ├── stat-mode@0.2.2 </tspan>
+<tspan x="10" y="1178">  │ │ │ │ │ │ ├── through2@2.0.3 </tspan>
+<tspan x="10" y="1194">  │ │ │ │ │ │ └─┬ yauzl@2.7.0 </tspan>
+<tspan x="10" y="1210">  │ │ │ │ │ │   └── buffer-crc32@0.2.13 </tspan>
+<tspan x="10" y="1226">  │ │ │ │ │ └── vinyl-assign@1.2.1 </tspan>
+<tspan x="10" y="1242">  │ │ │ │ └─┬ gulp-util@3.0.8 </tspan>
+<tspan x="10" y="1258">  │ │ │ │   ├── array-differ@1.0.0 </tspan>
+<tspan x="10" y="1274">  │ │ │ │   ├── array-uniq@1.0.3 </tspan>
+<tspan x="10" y="1290">  │ │ │ │   ├── beeper@1.1.1 </tspan>
+<tspan x="10" y="1306">  │ │ │ │   ├── dateformat@2.0.0 </tspan>
+<tspan x="10" y="1322">  │ │ │ │   ├─┬ fancy-log@1.3.0 </tspan>
+<tspan x="10" y="1338">  │ │ │ │   │ └── time-stamp@1.0.1 </tspan>
+<tspan x="10" y="1354">  │ │ │ │   ├─┬ gulplog@1.0.0 </tspan>
+<tspan x="10" y="1370">  │ │ │ │   │ └── glogg@1.0.0 </tspan>
+<tspan x="10" y="1386">  │ │ │ │   ├─┬ has-gulplog@0.1.0 </tspan>
+<tspan x="10" y="1402">  │ │ │ │   │ └── sparkles@1.0.0 </tspan>
+<tspan x="10" y="1418">  │ │ │ │   ├── lodash._reescape@3.0.0 </tspan>
+<tspan x="10" y="1434">  │ │ │ │   ├── lodash._reevaluate@3.0.0 </tspan>
+<tspan x="10" y="1450">  │ │ │ │   ├── lodash._reinterpolate@3.0.0 </tspan>
+<tspan x="10" y="1466">  │ │ │ │   ├─┬ lodash.template@3.6.2 </tspan>
+<tspan x="10" y="1482">  │ │ │ │   │ ├── lodash._basecopy@3.0.1 </tspan>
+<tspan x="10" y="1498">  │ │ │ │   │ ├── lodash._basetostring@3.0.1 </tspan>
+<tspan x="10" y="1514">  │ │ │ │   │ ├── lodash._basevalues@3.0.0 </tspan>
+<tspan x="10" y="1530">  │ │ │ │   │ ├── lodash._isiterateecall@3.0.9 </tspan>
+<tspan x="10" y="1546">  │ │ │ │   │ ├─┬ lodash.escape@3.2.0 </tspan>
+<tspan x="10" y="1562">  │ │ │ │   │ │ └── lodash._root@3.0.1 </tspan>
+<tspan x="10" y="1578">  │ │ │ │   │ ├─┬ lodash.keys@3.1.2 </tspan>
+<tspan x="10" y="1594">  │ │ │ │   │ │ ├── lodash._getnative@3.9.1 </tspan>
+<tspan x="10" y="1610">  │ │ │ │   │ │ ├── lodash.isarguments@3.1.0 </tspan>
+<tspan x="10" y="1626">  │ │ │ │   │ │ └── lodash.isarray@3.0.4 </tspan>
+<tspan x="10" y="1642">  │ │ │ │   │ ├── lodash.restparam@3.6.1 </tspan>
+<tspan x="10" y="1658">  │ │ │ │   │ └── lodash.templatesettings@3.1.1 </tspan>
+<tspan x="10" y="1674">  │ │ │ │   ├─┬ multipipe@0.1.2 </tspan>
+<tspan x="10" y="1690">  │ │ │ │   │ └─┬ duplexer2@0.0.2 </tspan>
+<tspan x="10" y="1706">  │ │ │ │   │   └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="1722">  │ │ │ │   │     ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="1738">  │ │ │ │   │     └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="1754">  │ │ │ │   ├── object-assign@3.0.0 </tspan>
+<tspan x="10" y="1770">  │ │ │ │   ├── through2@2.0.3 </tspan>
+<tspan x="10" y="1786">  │ │ │ │   └── vinyl@0.5.3 </tspan>
+<tspan x="10" y="1802">  │ │ │ ├── gulp-rename@1.2.2 </tspan>
+<tspan x="10" y="1818">  │ │ │ ├── is-url@1.2.2 </tspan>
+<tspan x="10" y="1834">  │ │ │ ├── read-all-stream@3.1.0 </tspan>
+<tspan x="10" y="1850">  │ │ │ ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="1866">  │ │ │ │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="1882">  │ │ │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="1898">  │ │ │ │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="1914">  │ │ │ │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="1930">  │ │ │ │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="1946">  │ │ │ │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="1962">  │ │ │ ├── stream-combiner2@1.1.1 </tspan>
+<tspan x="10" y="1978">  │ │ │ ├─┬ vinyl@1.2.0 </tspan>
+<tspan x="10" y="1994">  │ │ │ │ ├── clone@1.0.2 </tspan>
+<tspan x="10" y="2010">  │ │ │ │ ├── clone-stats@0.0.1 </tspan>
+<tspan x="10" y="2026">  │ │ │ │ └── replace-ext@0.0.1 </tspan>
+<tspan x="10" y="2042">  │ │ │ ├─┬ vinyl-fs@2.4.4 </tspan>
+<tspan x="10" y="2058">  │ │ │ │ ├─┬ duplexify@3.5.0 </tspan>
+<tspan x="10" y="2074">  │ │ │ │ │ ├─┬ end-of-stream@1.0.0 </tspan>
+<tspan x="10" y="2090">  │ │ │ │ │ │ └── once@1.3.3 </tspan>
+<tspan x="10" y="2106">  │ │ │ │ │ └── stream-shift@1.0.0 </tspan>
+<tspan x="10" y="2122">  │ │ │ │ ├─┬ glob-stream@5.3.5 </tspan>
+<tspan x="10" y="2138">  │ │ │ │ │ ├── glob@5.0.15 </tspan>
+<tspan x="10" y="2154">  │ │ │ │ │ ├─┬ glob-parent@3.1.0 </tspan>
+<tspan x="10" y="2170">  │ │ │ │ │ │ ├─┬ is-glob@3.1.0 </tspan>
+<tspan x="10" y="2186">  │ │ │ │ │ │ │ └── is-extglob@2.1.1 </tspan>
+<tspan x="10" y="2202">  │ │ │ │ │ │ └── path-dirname@1.0.2 </tspan>
+<tspan x="10" y="2218">  │ │ │ │ │ ├─┬ micromatch@2.3.11 </tspan>
+<tspan x="10" y="2234">  │ │ │ │ │ │ ├─┬ arr-diff@2.0.0 </tspan>
+<tspan x="10" y="2250">  │ │ │ │ │ │ │ └── arr-flatten@1.0.3 </tspan>
+<tspan x="10" y="2266">  │ │ │ │ │ │ ├── array-unique@0.2.1 </tspan>
+<tspan x="10" y="2282">  │ │ │ │ │ │ ├─┬ braces@1.8.5 </tspan>
+<tspan x="10" y="2298">  │ │ │ │ │ │ │ ├─┬ expand-range@1.8.2 </tspan>
+<tspan x="10" y="2314">  │ │ │ │ │ │ │ │ └─┬ fill-range@2.2.3 </tspan>
+<tspan x="10" y="2330">  │ │ │ │ │ │ │ │   ├── is-number@2.1.0 </tspan>
+<tspan x="10" y="2346">  │ │ │ │ │ │ │ │   ├── isobject@2.1.0 </tspan>
+<tspan x="10" y="2362">  │ │ │ │ │ │ │ │   └── randomatic@1.1.6 </tspan>
+<tspan x="10" y="2378">  │ │ │ │ │ │ │ ├── preserve@0.2.0 </tspan>
+<tspan x="10" y="2394">  │ │ │ │ │ │ │ └── repeat-element@1.1.2 </tspan>
+<tspan x="10" y="2410">  │ │ │ │ │ │ ├─┬ expand-brackets@0.1.5 </tspan>
+<tspan x="10" y="2426">  │ │ │ │ │ │ │ └── is-posix-bracket@0.1.1 </tspan>
+<tspan x="10" y="2442">  │ │ │ │ │ │ ├─┬ extglob@0.3.2 </tspan>
+<tspan x="10" y="2458">  │ │ │ │ │ │ │ └── is-extglob@1.0.0 </tspan>
+<tspan x="10" y="2474">  │ │ │ │ │ │ ├── filename-regex@2.0.0 </tspan>
+<tspan x="10" y="2490">  │ │ │ │ │ │ ├── is-extglob@1.0.0 </tspan>
+<tspan x="10" y="2506">  │ │ │ │ │ │ ├── is-glob@2.0.1 </tspan>
+<tspan x="10" y="2522">  │ │ │ │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="2538">  │ │ │ │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="2554">  │ │ │ │ │ │ ├─┬ normalize-path@2.1.1 </tspan>
+<tspan x="10" y="2570">  │ │ │ │ │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
+<tspan x="10" y="2586">  │ │ │ │ │ │ ├─┬ object.omit@2.0.1 </tspan>
+<tspan x="10" y="2602">  │ │ │ │ │ │ │ ├─┬ for-own@0.1.5 </tspan>
+<tspan x="10" y="2618">  │ │ │ │ │ │ │ │ └── for-in@1.0.2 </tspan>
+<tspan x="10" y="2634">  │ │ │ │ │ │ │ └── is-extendable@0.1.1 </tspan>
+<tspan x="10" y="2650">  │ │ │ │ │ │ ├─┬ parse-glob@3.0.4 </tspan>
+<tspan x="10" y="2666">  │ │ │ │ │ │ │ ├─┬ glob-base@0.3.0 </tspan>
+<tspan x="10" y="2682">  │ │ │ │ │ │ │ │ ├── glob-parent@2.0.0 </tspan>
+<tspan x="10" y="2698">  │ │ │ │ │ │ │ │ └─┬ is-glob@2.0.1 </tspan>
+<tspan x="10" y="2714">  │ │ │ │ │ │ │ │   └── is-extglob@1.0.0 </tspan>
+<tspan x="10" y="2730">  │ │ │ │ │ │ │ ├── is-dotfile@1.0.2 </tspan>
+<tspan x="10" y="2746">  │ │ │ │ │ │ │ ├── is-extglob@1.0.0 </tspan>
+<tspan x="10" y="2762">  │ │ │ │ │ │ │ └── is-glob@2.0.1 </tspan>
+<tspan x="10" y="2778">  │ │ │ │ │ │ └─┬ regex-cache@0.4.3 </tspan>
+<tspan x="10" y="2794">  │ │ │ │ │ │   ├── is-equal-shallow@0.1.3 </tspan>
+<tspan x="10" y="2810">  │ │ │ │ │ │   └── is-primitive@2.0.0 </tspan>
+<tspan x="10" y="2826">  │ │ │ │ │ ├── ordered-read-streams@0.3.0 </tspan>
+<tspan x="10" y="2842">  │ │ │ │ │ ├─┬ through2@0.6.5 </tspan>
+<tspan x="10" y="2858">  │ │ │ │ │ │ └─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="2874">  │ │ │ │ │ │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="2890">  │ │ │ │ │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="2906">  │ │ │ │ │ ├─┬ to-absolute-glob@0.1.1 </tspan>
+<tspan x="10" y="2922">  │ │ │ │ │ │ └── extend-shallow@2.0.1 </tspan>
+<tspan x="10" y="2938">  │ │ │ │ │ └── unique-stream@2.2.1 </tspan>
+<tspan x="10" y="2954">  │ │ │ │ ├─┬ gulp-sourcemaps@1.6.0 </tspan>
+<tspan x="10" y="2970">  │ │ │ │ │ ├── convert-source-map@1.5.0 </tspan>
+<tspan x="10" y="2986">  │ │ │ │ │ └── through2@2.0.3 </tspan>
+<tspan x="10" y="3002">  │ │ │ │ ├── is-valid-glob@0.3.0 </tspan>
+<tspan x="10" y="3018">  │ │ │ │ ├── lazystream@1.0.0 </tspan>
+<tspan x="10" y="3034">  │ │ │ │ ├── lodash.isequal@4.5.0 </tspan>
+<tspan x="10" y="3050">  │ │ │ │ ├── merge-stream@1.0.1 </tspan>
+<tspan x="10" y="3066">  │ │ │ │ ├─┬ strip-bom@2.0.0 </tspan>
+<tspan x="10" y="3082">  │ │ │ │ │ └── is-utf8@0.2.1 </tspan>
+<tspan x="10" y="3098">  │ │ │ │ ├─┬ strip-bom-stream@1.0.0 </tspan>
+<tspan x="10" y="3114">  │ │ │ │ │ └── first-chunk-stream@1.0.0 </tspan>
+<tspan x="10" y="3130">  │ │ │ │ ├── through2@2.0.3 </tspan>
+<tspan x="10" y="3146">  │ │ │ │ ├─┬ through2-filter@2.0.0 </tspan>
+<tspan x="10" y="3162">  │ │ │ │ │ └── through2@2.0.3 </tspan>
+<tspan x="10" y="3178">  │ │ │ │ └── vali-date@1.0.0 </tspan>
+<tspan x="10" y="3194">  │ │ │ └─┬ ware@1.3.0 </tspan>
+<tspan x="10" y="3210">  │ │ │   └─┬ wrap-fn@0.1.5 </tspan>
+<tspan x="10" y="3226">  │ │ │     └── co@3.1.0 </tspan>
+<tspan x="10" y="3242">  │ │ └─┬ download-status@2.2.1 </tspan>
+<tspan x="10" y="3258">  │ │   ├─┬ chalk@0.5.1 </tspan>
+<tspan x="10" y="3274">  │ │   │ ├── ansi-styles@1.1.0 </tspan>
+<tspan x="10" y="3290">  │ │   │ ├─┬ has-ansi@0.1.0 </tspan>
+<tspan x="10" y="3306">  │ │   │ │ └── ansi-regex@0.2.1 </tspan>
+<tspan x="10" y="3322">  │ │   │ ├── strip-ansi@0.3.0 </tspan>
+<tspan x="10" y="3338">  │ │   │ └── supports-color@0.2.0 </tspan>
+<tspan x="10" y="3354">  │ │   ├─┬ lpad-align@1.1.0 </tspan>
+<tspan x="10" y="3370">  │ │   │ ├── get-stdin@4.0.1 </tspan>
+<tspan x="10" y="3386">  │ │   │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="3402">  │ │   │ ├── lpad@2.0.1 </tspan>
+<tspan x="10" y="3418">  │ │   │ └─┬ meow@3.7.0 </tspan>
+<tspan x="10" y="3434">  │ │   │   ├─┬ camelcase-keys@2.1.0 </tspan>
+<tspan x="10" y="3450">  │ │   │   │ └── camelcase@2.1.1 </tspan>
+<tspan x="10" y="3466">  │ │   │   ├─┬ loud-rejection@1.6.0 </tspan>
+<tspan x="10" y="3482">  │ │   │   │ └─┬ currently-unhandled@0.4.1 </tspan>
+<tspan x="10" y="3498">  │ │   │   │   └── array-find-index@1.0.2 </tspan>
+<tspan x="10" y="3514">  │ │   │   ├── map-obj@1.0.1 </tspan>
+<tspan x="10" y="3530">  │ │   │   ├─┬ redent@1.0.0 </tspan>
+<tspan x="10" y="3546">  │ │   │   │ ├─┬ indent-string@2.1.0 </tspan>
+<tspan x="10" y="3562">  │ │   │   │ │ └─┬ repeating@2.0.1 </tspan>
+<tspan x="10" y="3578">  │ │   │   │ │   └── is-finite@1.0.2 </tspan>
+<tspan x="10" y="3594">  │ │   │   │ └── strip-indent@1.0.1 </tspan>
+<tspan x="10" y="3610">  │ │   │   └── trim-newlines@1.0.0 </tspan>
+<tspan x="10" y="3626">  │ │   ├── object-assign@2.1.1 </tspan>
+<tspan x="10" y="3642">  │ │   └── progress@1.1.8 </tspan>
+<tspan x="10" y="3658">  │ ├─┬ chrome-har@0.1.0 </tspan>
+<tspan x="10" y="3674">  │ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="3690">  │ │ │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="3706">  │ │ └─┬ tough-cookie@2.3.2 </tspan>
+<tspan x="10" y="3722">  │ │   └── punycode@1.4.1 </tspan>
+<tspan x="10" y="3738">  │ ├─┬ execa@0.6.0 </tspan>
+<tspan x="10" y="3754">  │ │ ├─┬ cross-spawn@5.1.0 </tspan>
+<tspan x="10" y="3770">  │ │ │ ├─┬ lru-cache@4.0.2 </tspan>
+<tspan x="10" y="3786">  │ │ │ │ ├── pseudomap@1.0.2 </tspan>
+<tspan x="10" y="3802">  │ │ │ │ └── yallist@2.1.2 </tspan>
+<tspan x="10" y="3818">  │ │ │ ├─┬ shebang-command@1.2.0 </tspan>
+<tspan x="10" y="3834">  │ │ │ │ └── shebang-regex@1.0.0 </tspan>
+<tspan x="10" y="3850">  │ │ │ └─┬ which@1.2.14 </tspan>
+<tspan x="10" y="3866">  │ │ │   └── isexe@2.0.0 </tspan>
+<tspan x="10" y="3882">  │ │ ├── get-stream@3.0.0 </tspan>
+<tspan x="10" y="3898">  │ │ ├── is-stream@1.1.0 </tspan>
+<tspan x="10" y="3914">  │ │ ├─┬ npm-run-path@2.0.2 </tspan>
+<tspan x="10" y="3930">  │ │ │ └── path-key@2.0.1 </tspan>
+<tspan x="10" y="3946">  │ │ ├── p-finally@1.0.0 </tspan>
+<tspan x="10" y="3962">  │ │ ├── signal-exit@3.0.2 </tspan>
+<tspan x="10" y="3978">  │ │ └── strip-eof@1.0.0 </tspan>
+<tspan x="10" y="3994">  │ ├─┬ hasbin@1.2.3 </tspan>
+<tspan x="10" y="4010">  │ │ └── async@1.5.2 </tspan>
+<tspan x="10" y="4026">  │ ├── lodash.groupby@4.6.0 </tspan>
+<tspan x="10" y="4042">  │ ├── lodash.pick@4.4.0 </tspan>
+<tspan x="10" y="4058">  │ ├── lodash.remove@4.7.0 </tspan>
+<tspan x="10" y="4074">  │ ├─┬ selenium-webdriver@3.3.0 </tspan>
+<tspan x="10" y="4090">  │ │ ├── adm-zip@0.4.7 </tspan>
+<tspan x="10" y="4106">  │ │ ├─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="4122">  │ │ │ └── glob@7.1.1 </tspan>
+<tspan x="10" y="4138">  │ │ └─┬ tmp@0.0.30 </tspan>
+<tspan x="10" y="4154">  │ │   └── os-tmpdir@1.0.2 </tspan>
+<tspan x="10" y="4170">  │ ├─┬ sltc@0.6.0 </tspan>
+<tspan x="10" y="4186">  │ │ └── hasbin@1.2.2 </tspan>
+<tspan x="10" y="4202">  │ ├── soprano-saxophone@0.14.0 </tspan>
+<tspan x="10" y="4218">  │ ├── valid-url@1.0.9 </tspan>
+<tspan x="10" y="4234">  │ ├─┬ xvfb@0.2.3 </tspan>
+<tspan x="10" y="4250">  │ │ └─┬ sleep@3.0.1 </tspan>
+<tspan x="10" y="4266">  │ │   └── nan@2.6.2 </tspan>
+<tspan x="10" y="4282">  │ └─┬ yargs@7.0.2 </tspan>
+<tspan x="10" y="4298">  │   ├── camelcase@3.0.0 </tspan>
+<tspan x="10" y="4314">  │   └─┬ yargs-parser@5.0.0 </tspan>
+<tspan x="10" y="4330">  │     └── camelcase@3.0.0 </tspan>
+<tspan x="10" y="4346">  ├─┬ cli-color@1.1.0 </tspan>
+<tspan x="10" y="4362">  │ ├── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="4378">  │ ├── d@0.1.1 </tspan>
+<tspan x="10" y="4394">  │ ├─┬ es5-ext@0.10.15 </tspan>
+<tspan x="10" y="4410">  │ │ └─┬ es6-symbol@3.1.1 </tspan>
+<tspan x="10" y="4426">  │ │   └── d@1.0.0 </tspan>
+<tspan x="10" y="4442">  │ ├─┬ es6-iterator@2.0.1 </tspan>
+<tspan x="10" y="4458">  │ │ └── d@1.0.0 </tspan>
+<tspan x="10" y="4474">  │ ├─┬ memoizee@0.3.10 </tspan>
+<tspan x="10" y="4490">  │ │ ├─┬ es6-weak-map@0.1.4 </tspan>
+<tspan x="10" y="4506">  │ │ │ ├── es6-iterator@0.1.3 </tspan>
+<tspan x="10" y="4522">  │ │ │ └── es6-symbol@2.0.1 </tspan>
+<tspan x="10" y="4538">  │ │ ├─┬ event-emitter@0.3.5 </tspan>
+<tspan x="10" y="4554">  │ │ │ └── d@1.0.0 </tspan>
+<tspan x="10" y="4570">  │ │ ├── lru-queue@0.1.0 </tspan>
+<tspan x="10" y="4586">  │ │ └── next-tick@0.2.2 </tspan>
+<tspan x="10" y="4602">  │ └─┬ timers-ext@0.1.2 </tspan>
+<tspan x="10" y="4618">  │   └── next-tick@1.0.0 </tspan>
+<tspan x="10" y="4634">  ├─┬ concurrent-queue@7.0.1 </tspan>
+<tspan x="10" y="4650">  │ ├── afterward@2.0.0 </tspan>
+<tspan x="10" y="4666">  │ ├─┬ define-error@1.0.0 </tspan>
+<tspan x="10" y="4682">  │ │ └── capture-stack-trace@1.0.0 </tspan>
+<tspan x="10" y="4698">  │ ├─┬ eventuate@4.0.0 </tspan>
+<tspan x="10" y="4714">  │ │ ├── object-assign@3.0.0 </tspan>
+<tspan x="10" y="4730">  │ │ └── shallow-copy@0.0.1 </tspan>
+<tspan x="10" y="4746">  │ ├── object-assign@4.0.1 </tspan>
+<tspan x="10" y="4762">  │ ├── on-error@2.1.0 </tspan>
+<tspan x="10" y="4778">  │ ├─┬ once@1.3.3 </tspan>
+<tspan x="10" y="4794">  │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="4810">  │ └── promise-polyfill@2.1.4 </tspan>
+<tspan x="10" y="4826">  ├── fast-stats@0.0.3 </tspan>
+<tspan x="10" y="4842">  ├─┬ fs-extra@2.0.0 </tspan>
+<tspan x="10" y="4858">  │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="4874">  │ └── jsonfile@2.4.0 </tspan>
+<tspan x="10" y="4890">  ├─┬ gpagespeed@3.0.0 </tspan>
+<tspan x="10" y="4906">  │ ├─┬ googleapis@2.1.7 </tspan>
+<tspan x="10" y="4922">  │ │ ├─┬ gapitoken@0.1.5 </tspan>
+<tspan x="10" y="4938">  │ │ │ └─┬ jws@3.0.0 </tspan>
+<tspan x="10" y="4954">  │ │ │   ├─┬ base64url@1.0.6 </tspan>
+<tspan x="10" y="4970">  │ │ │   │ ├─┬ concat-stream@1.4.10 </tspan>
+<tspan x="10" y="4986">  │ │ │   │ │ └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="5002">  │ │ │   │ │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="5018">  │ │ │   │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="5034">  │ │ │   │ └─┬ meow@2.0.0 </tspan>
+<tspan x="10" y="5050">  │ │ │   │   ├─┬ camelcase-keys@1.0.0 </tspan>
+<tspan x="10" y="5066">  │ │ │   │   │ └── camelcase@1.2.1 </tspan>
+<tspan x="10" y="5082">  │ │ │   │   ├─┬ indent-string@1.2.2 </tspan>
+<tspan x="10" y="5098">  │ │ │   │   │ └── repeating@1.1.3 </tspan>
+<tspan x="10" y="5114">  │ │ │   │   └── object-assign@1.0.0 </tspan>
+<tspan x="10" y="5130">  │ │ │   └─┬ jwa@1.0.2 </tspan>
+<tspan x="10" y="5146">  │ │ │     ├── base64url@0.0.6 </tspan>
+<tspan x="10" y="5162">  │ │ │     ├── buffer-equal-constant-time@1.0.1 </tspan>
+<tspan x="10" y="5178">  │ │ │     └─┬ ecdsa-sig-formatter@1.0.9 </tspan>
+<tspan x="10" y="5194">  │ │ │       └── base64url@2.0.0 </tspan>
+<tspan x="10" y="5210">  │ │ ├─┬ google-auth-library@0.9.10 </tspan>
+<tspan x="10" y="5226">  │ │ │ ├── async@1.4.2 </tspan>
+<tspan x="10" y="5242">  │ │ │ ├─┬ gtoken@1.2.2 </tspan>
+<tspan x="10" y="5258">  │ │ │ │ ├─┬ google-p12-pem@0.1.2 </tspan>
+<tspan x="10" y="5274">  │ │ │ │ │ └── node-forge@0.7.1 </tspan>
+<tspan x="10" y="5290">  │ │ │ │ ├── mime@1.3.4 </tspan>
+<tspan x="10" y="5306">  │ │ │ │ └─┬ request@2.81.0 </tspan>
+<tspan x="10" y="5322">  │ │ │ │   ├── caseless@0.12.0 </tspan>
+<tspan x="10" y="5338">  │ │ │ │   ├─┬ form-data@2.1.4 </tspan>
+<tspan x="10" y="5354">  │ │ │ │   │ └── asynckit@0.4.0 </tspan>
+<tspan x="10" y="5370">  │ │ │ │   ├─┬ har-validator@4.2.1 </tspan>
+<tspan x="10" y="5386">  │ │ │ │   │ ├─┬ ajv@4.11.7 </tspan>
+<tspan x="10" y="5402">  │ │ │ │   │ │ └── co@4.6.0 </tspan>
+<tspan x="10" y="5418">  │ │ │ │   │ └── har-schema@1.0.5 </tspan>
+<tspan x="10" y="5434">  │ │ │ │   ├─┬ http-signature@1.1.1 </tspan>
+<tspan x="10" y="5450">  │ │ │ │   │ └── assert-plus@0.2.0 </tspan>
+<tspan x="10" y="5466">  │ │ │ │   ├── performance-now@0.2.0 </tspan>
+<tspan x="10" y="5482">  │ │ │ │   ├── qs@6.4.0 </tspan>
+<tspan x="10" y="5498">  │ │ │ │   ├── safe-buffer@5.0.1 </tspan>
+<tspan x="10" y="5514">  │ │ │ │   └── tunnel-agent@0.6.0 </tspan>
+<tspan x="10" y="5530">  │ │ │ ├── lodash.noop@3.0.1 </tspan>
+<tspan x="10" y="5546">  │ │ │ └─┬ request@2.74.0 </tspan>
+<tspan x="10" y="5562">  │ │ │   ├── aws4@1.6.0 </tspan>
+<tspan x="10" y="5578">  │ │ │   ├─┬ bl@1.1.2 </tspan>
+<tspan x="10" y="5594">  │ │ │   │ └─┬ readable-stream@2.0.6 </tspan>
+<tspan x="10" y="5610">  │ │ │   │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="5626">  │ │ │   ├─┬ http-signature@1.1.1 </tspan>
+<tspan x="10" y="5642">  │ │ │   │ ├── assert-plus@0.2.0 </tspan>
+<tspan x="10" y="5658">  │ │ │   │ ├─┬ jsprim@1.4.0 </tspan>
+<tspan x="10" y="5674">  │ │ │   │ │ ├── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="5690">  │ │ │   │ │ ├── extsprintf@1.0.2 </tspan>
+<tspan x="10" y="5706">  │ │ │   │ │ ├── json-schema@0.2.3 </tspan>
+<tspan x="10" y="5722">  │ │ │   │ │ └── verror@1.3.6 </tspan>
+<tspan x="10" y="5738">  │ │ │   │ └─┬ sshpk@1.13.0 </tspan>
+<tspan x="10" y="5754">  │ │ │   │   ├── asn1@0.2.3 </tspan>
+<tspan x="10" y="5770">  │ │ │   │   ├── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="5786">  │ │ │   │   ├── bcrypt-pbkdf@1.0.1 </tspan>
+<tspan x="10" y="5802">  │ │ │   │   ├─┬ dashdash@1.14.1 </tspan>
+<tspan x="10" y="5818">  │ │ │   │   │ └── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="5834">  │ │ │   │   ├── ecc-jsbn@0.1.1 </tspan>
+<tspan x="10" y="5850">  │ │ │   │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="5866">  │ │ │   │   │ └── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="5882">  │ │ │   │   ├── jodid25519@1.0.2 </tspan>
+<tspan x="10" y="5898">  │ │ │   │   ├── jsbn@0.1.1 </tspan>
+<tspan x="10" y="5914">  │ │ │   │   └── tweetnacl@0.14.5 </tspan>
+<tspan x="10" y="5930">  │ │ │   ├── is-typedarray@1.0.0 </tspan>
+<tspan x="10" y="5946">  │ │ │   ├── node-uuid@1.4.8 </tspan>
+<tspan x="10" y="5962">  │ │ │   └── qs@6.2.3 </tspan>
+<tspan x="10" y="5978">  │ │ └── string-template@0.2.1 </tspan>
+<tspan x="10" y="5994">  │ └── minimist@1.2.0 </tspan>
+<tspan x="10" y="6010">  ├── influx@5.0.4 </tspan>
+<tspan x="10" y="6026">  ├─┬ intel@1.1.2 </tspan>
+<tspan x="10" y="6042">  │ ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="6058">  │ │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="6074">  │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="6090">  │ │ ├── has-ansi@2.0.0 </tspan>
+<tspan x="10" y="6106">  │ │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="6122">  │ │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="6138">  │ ├── dbug@0.4.2 </tspan>
+<tspan x="10" y="6154">  │ ├── stack-trace@0.0.9 </tspan>
+<tspan x="10" y="6170">  │ ├── strftime@0.9.2 </tspan>
+<tspan x="10" y="6186">  │ ├── symbol@0.3.0 </tspan>
+<tspan x="10" y="6202">  │ └── utcstring@0.1.0 </tspan>
+<tspan x="10" y="6218">  ├─┬ junit-report-builder@1.1.1 </tspan>
+<tspan x="10" y="6234">  │ ├── date-format@0.0.2 </tspan>
+<tspan x="10" y="6250">  │ ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="6266">  │ └── xmlbuilder@2.6.5 </tspan>
+<tspan x="10" y="6282">  ├── lodash.chunk@4.2.0 </tspan>
+<tspan x="10" y="6298">  ├── lodash.clonedeep@4.5.0 </tspan>
+<tspan x="10" y="6314">  ├── lodash.difference@4.5.0 </tspan>
+<tspan x="10" y="6330">  ├── lodash.flatten@4.4.0 </tspan>
+<tspan x="10" y="6346">  ├── lodash.foreach@4.5.0 </tspan>
+<tspan x="10" y="6362">  ├── lodash.get@4.4.2 </tspan>
+<tspan x="10" y="6378">  ├── lodash.isempty@4.4.0 </tspan>
+<tspan x="10" y="6394">  ├── lodash.merge@4.6.0 </tspan>
+<tspan x="10" y="6410">  ├── lodash.pullall@4.2.0 </tspan>
+<tspan x="10" y="6426">  ├── lodash.reduce@4.6.0 </tspan>
+<tspan x="10" y="6442">  ├── lodash.set@4.3.2 </tspan>
+<tspan x="10" y="6458">  ├── lodash.union@4.6.0 </tspan>
+<tspan x="10" y="6474">  ├─┬ longjohn@0.2.12 </tspan>
+<tspan x="10" y="6490">  │ └─┬ source-map-support@0.4.14 </tspan>
+<tspan x="10" y="6506">  │   └── source-map@0.5.6 </tspan>
+<tspan x="10" y="6522">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="6538">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="6554">  ├── moment@2.17.1 </tspan>
+<tspan x="10" y="6570">  ├─┬ node-slack@0.0.7 </tspan>
+<tspan x="10" y="6586">  │ ├── deferred@0.7.1 </tspan>
+<tspan x="10" y="6602">  │ └─┬ request@2.65.0 </tspan>
+<tspan x="10" y="6618">  │   ├── aws-sign2@0.6.0 </tspan>
+<tspan x="10" y="6634">  │   ├─┬ bl@1.0.3 </tspan>
+<tspan x="10" y="6650">  │   │ └─┬ readable-stream@2.0.6 </tspan>
+<tspan x="10" y="6666">  │   │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="6682">  │   ├── caseless@0.11.0 </tspan>
+<tspan x="10" y="6698">  │   ├─┬ combined-stream@1.0.5 </tspan>
+<tspan x="10" y="6714">  │   │ └── delayed-stream@1.0.0 </tspan>
+<tspan x="10" y="6730">  │   ├── extend@3.0.0 </tspan>
+<tspan x="10" y="6746">  │   ├── forever-agent@0.6.1 </tspan>
+<tspan x="10" y="6762">  │   ├─┬ form-data@1.0.1 </tspan>
+<tspan x="10" y="6778">  │   │ └── async@2.3.0 </tspan>
+<tspan x="10" y="6794">  │   ├─┬ har-validator@2.0.6 </tspan>
+<tspan x="10" y="6810">  │   │ ├── commander@2.9.0 </tspan>
+<tspan x="10" y="6826">  │   │ ├─┬ is-my-json-valid@2.16.0 </tspan>
+<tspan x="10" y="6842">  │   │ │ ├── generate-function@2.0.0 </tspan>
+<tspan x="10" y="6858">  │   │ │ ├─┬ generate-object-property@1.2.0 </tspan>
+<tspan x="10" y="6874">  │   │ │ │ └── is-property@1.0.2 </tspan>
+<tspan x="10" y="6890">  │   │ │ ├── jsonpointer@4.0.1 </tspan>
+<tspan x="10" y="6906">  │   │ │ └── xtend@4.0.1 </tspan>
+<tspan x="10" y="6922">  │   │ └─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="6938">  │   │   └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="6954">  │   ├─┬ hawk@3.1.3 </tspan>
+<tspan x="10" y="6970">  │   │ ├── boom@2.10.1 </tspan>
+<tspan x="10" y="6986">  │   │ ├── cryptiles@2.0.5 </tspan>
+<tspan x="10" y="7002">  │   │ ├── hoek@2.16.3 </tspan>
+<tspan x="10" y="7018">  │   │ └── sntp@1.0.9 </tspan>
+<tspan x="10" y="7034">  │   ├─┬ http-signature@0.11.0 </tspan>
+<tspan x="10" y="7050">  │   │ ├── asn1@0.1.11 </tspan>
+<tspan x="10" y="7066">  │   │ ├── assert-plus@0.1.5 </tspan>
+<tspan x="10" y="7082">  │   │ └── ctype@0.5.3 </tspan>
+<tspan x="10" y="7098">  │   ├── isstream@0.1.2 </tspan>
+<tspan x="10" y="7114">  │   ├── json-stringify-safe@5.0.1 </tspan>
+<tspan x="10" y="7130">  │   ├─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="7146">  │   │ └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="7162">  │   ├── node-uuid@1.4.8 </tspan>
+<tspan x="10" y="7178">  │   ├── oauth-sign@0.8.2 </tspan>
+<tspan x="10" y="7194">  │   ├── qs@5.2.1 </tspan>
+<tspan x="10" y="7210">  │   ├── stringstream@0.0.5 </tspan>
+<tspan x="10" y="7226">  │   ├── tough-cookie@2.2.2 </tspan>
+<tspan x="10" y="7242">  │   └── tunnel-agent@0.4.3 </tspan>
+<tspan x="10" y="7258">  ├── pagexray@0.14.1 </tspan>
+<tspan x="10" y="7274">  ├─┬ pug@2.0.0-beta11 </tspan>
+<tspan x="10" y="7290">  │ ├─┬ pug-code-gen@1.1.1 </tspan>
+<tspan x="10" y="7306">  │ │ ├─┬ constantinople@3.1.0 </tspan>
+<tspan x="10" y="7322">  │ │ │ ├── acorn@3.3.0 </tspan>
+<tspan x="10" y="7338">  │ │ │ └── is-expression@2.1.0 </tspan>
+<tspan x="10" y="7354">  │ │ ├── doctypes@1.1.0 </tspan>
+<tspan x="10" y="7370">  │ │ ├── js-stringify@1.0.2 </tspan>
+<tspan x="10" y="7386">  │ │ ├── pug-attrs@2.0.2 </tspan>
+<tspan x="10" y="7402">  │ │ ├── pug-error@1.3.2 </tspan>
+<tspan x="10" y="7418">  │ │ ├── void-elements@2.0.1 </tspan>
+<tspan x="10" y="7434">  │ │ └─┬ with@5.1.1 </tspan>
+<tspan x="10" y="7450">  │ │   └─┬ acorn-globals@3.1.0 </tspan>
+<tspan x="10" y="7466">  │ │     └── acorn@4.0.11 </tspan>
+<tspan x="10" y="7482">  │ ├─┬ pug-filters@2.1.2 </tspan>
+<tspan x="10" y="7498">  │ │ ├─┬ clean-css@3.4.25 </tspan>
+<tspan x="10" y="7514">  │ │ │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="7530">  │ │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="7546">  │ │ ├─┬ jstransformer@1.0.0 </tspan>
+<tspan x="10" y="7562">  │ │ │ ├── is-promise@2.1.0 </tspan>
+<tspan x="10" y="7578">  │ │ │ └─┬ promise@7.1.1 </tspan>
+<tspan x="10" y="7594">  │ │ │   └── asap@2.0.5 </tspan>
+<tspan x="10" y="7610">  │ │ ├── pug-walk@1.1.2 </tspan>
+<tspan x="10" y="7626">  │ │ ├─┬ resolve@1.3.3 </tspan>
+<tspan x="10" y="7642">  │ │ │ └── path-parse@1.0.5 </tspan>
+<tspan x="10" y="7658">  │ │ └─┬ uglify-js@2.8.22 </tspan>
+<tspan x="10" y="7674">  │ │   ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="7690">  │ │   └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="7706">  │ │     ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="7722">  │ │     ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="7738">  │ │     │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="7754">  │ │     │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="7770">  │ │     │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="7786">  │ │     │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="7802">  │ │     │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="7818">  │ │     │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="7834">  │ │     └── window-size@0.1.0 </tspan>
+<tspan x="10" y="7850">  │ ├─┬ pug-lexer@3.1.0 </tspan>
+<tspan x="10" y="7866">  │ │ ├─┬ character-parser@2.2.0 </tspan>
+<tspan x="10" y="7882">  │ │ │ └── is-regex@1.0.4 </tspan>
+<tspan x="10" y="7898">  │ │ └─┬ is-expression@3.0.0 </tspan>
+<tspan x="10" y="7914">  │ │   └── acorn@4.0.11 </tspan>
+<tspan x="10" y="7930">  │ ├── pug-linker@2.0.3 </tspan>
+<tspan x="10" y="7946">  │ ├─┬ pug-load@2.0.6 </tspan>
+<tspan x="10" y="7962">  │ │ └── object-assign@4.1.1 </tspan>
+<tspan x="10" y="7978">  │ ├─┬ pug-parser@2.0.2 </tspan>
+<tspan x="10" y="7994">  │ │ └── token-stream@0.0.1 </tspan>
+<tspan x="10" y="8010">  │ ├── pug-runtime@2.0.3 </tspan>
+<tspan x="10" y="8026">  │ └── pug-strip-comments@1.0.2 </tspan>
+<tspan x="10" y="8042">  ├─┬ s3@4.4.0 </tspan>
+<tspan x="10" y="8058">  │ ├─┬ aws-sdk@2.0.31 </tspan>
+<tspan x="10" y="8074">  │ │ ├─┬ xml2js@0.2.6 </tspan>
+<tspan x="10" y="8090">  │ │ │ └── sax@0.4.2 </tspan>
+<tspan x="10" y="8106">  │ │ └── xmlbuilder@0.4.2 </tspan>
+<tspan x="10" y="8122">  │ ├── fd-slicer@1.0.1 </tspan>
+<tspan x="10" y="8138">  │ ├── findit2@2.2.3 </tspan>
+<tspan x="10" y="8154">  │ ├─┬ graceful-fs@3.0.11 </tspan>
+<tspan x="10" y="8170">  │ │ └── natives@1.1.0 </tspan>
+<tspan x="10" y="8186">  │ ├── mime@1.2.11 </tspan>
+<tspan x="10" y="8202">  │ ├── pend@1.2.0 </tspan>
+<tspan x="10" y="8218">  │ ├── rimraf@2.2.8 </tspan>
+<tspan x="10" y="8234">  │ └── streamsink@1.2.0 </tspan>
+<tspan x="10" y="8250">  ├─┬ simplecrawler@1.1.0 </tspan>
+<tspan x="10" y="8266">  │ ├─┬ async@2.3.0 </tspan>
+<tspan x="10" y="8282">  │ │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="8298">  │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="8314">  │ ├── robots-parser@1.0.1 </tspan>
+<tspan x="10" y="8330">  │ └── urijs@1.18.10 </tspan>
+<tspan x="10" y="8346">  ├─┬ tape@4.6.3 </tspan>
+<tspan x="10" y="8362">  │ ├── deep-equal@1.0.1 </tspan>
+<tspan x="10" y="8378">  │ ├── defined@1.0.0 </tspan>
+<tspan x="10" y="8394">  │ ├─┬ for-each@0.3.2 </tspan>
+<tspan x="10" y="8410">  │ │ └── is-function@1.0.1 </tspan>
+<tspan x="10" y="8426">  │ ├── function-bind@1.1.0 </tspan>
+<tspan x="10" y="8442">  │ ├─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="8458">  │ │ ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="8474">  │ │ ├── inflight@1.0.6 </tspan>
+<tspan x="10" y="8490">  │ │ ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="8506">  │ │ │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="8522">  │ │ │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="8538">  │ │ │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="8554">  │ │ ├── once@1.4.0 </tspan>
+<tspan x="10" y="8570">  │ │ └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="8586">  │ ├── has@1.0.1 </tspan>
+<tspan x="10" y="8602">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="8618">  │ ├── object-inspect@1.2.2 </tspan>
+<tspan x="10" y="8634">  │ ├── resolve@1.1.7 </tspan>
+<tspan x="10" y="8650">  │ ├── resumer@0.0.0 </tspan>
+<tspan x="10" y="8666">  │ ├─┬ string.prototype.trim@1.1.2 </tspan>
+<tspan x="10" y="8682">  │ │ ├─┬ define-properties@1.1.2 </tspan>
+<tspan x="10" y="8698">  │ │ │ ├── foreach@2.0.5 </tspan>
+<tspan x="10" y="8714">  │ │ │ └── object-keys@1.0.11 </tspan>
+<tspan x="10" y="8730">  │ │ └─┬ es-abstract@1.7.0 </tspan>
+<tspan x="10" y="8746">  │ │   ├─┬ es-to-primitive@1.1.1 </tspan>
+<tspan x="10" y="8762">  │ │   │ ├── is-date-object@1.0.1 </tspan>
+<tspan x="10" y="8778">  │ │   │ └── is-symbol@1.0.1 </tspan>
+<tspan x="10" y="8794">  │ │   └── is-callable@1.1.3 </tspan>
+<tspan x="10" y="8810">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="8826">  ├── text-table@0.2.0 </tspan>
+<tspan x="10" y="8842">  ├── uuid@3.0.1 </tspan>
+<tspan x="10" y="8858">  ├─┬ webcoach@0.31.0 </tspan>
+<tspan x="10" y="8874">  │ ├── bluebird@3.4.6 </tspan>
+<tspan x="10" y="8890">  │ ├─┬ browsertime@1.0.0-beta.24 </tspan>
+<tspan x="10" y="8906">  │ │ ├── alto-saxophone@2.27.0 </tspan>
+<tspan x="10" y="8922">  │ │ ├─┬ execa@0.5.0 </tspan>
+<tspan x="10" y="8938">  │ │ │ ├── cross-spawn@4.0.2 </tspan>
+<tspan x="10" y="8954">  │ │ │ └── get-stream@2.3.1 </tspan>
+<tspan x="10" y="8970">  │ │ ├── selenium-webdriver@3.0.1 </tspan>
+<tspan x="10" y="8986">  │ │ └── yargs@6.5.0 </tspan>
+<tspan x="10" y="9002">  │ ├─┬ cli-table2@0.2.0 </tspan>
+<tspan x="10" y="9018">  │ │ ├── colors@1.1.2 </tspan>
+<tspan x="10" y="9034">  │ │ └── lodash@3.10.1 </tspan>
+<tspan x="10" y="9050">  │ ├─┬ filter-files@0.4.0 </tspan>
+<tspan x="10" y="9066">  │ │ ├── async@0.9.2 </tspan>
+<tspan x="10" y="9082">  │ │ └── is-directory@0.2.3 </tspan>
+<tspan x="10" y="9098">  │ ├─┬ json-stable-stringify@1.0.1 </tspan>
+<tspan x="10" y="9114">  │ │ └── jsonify@0.0.0 </tspan>
+<tspan x="10" y="9130">  │ ├── word-wrap@1.1.0 </tspan>
+<tspan x="10" y="9146">  │ └─┬ yargs@6.4.0 </tspan>
+<tspan x="10" y="9162">  │   ├── camelcase@3.0.0 </tspan>
+<tspan x="10" y="9178">  │   ├── window-size@0.2.0 </tspan>
+<tspan x="10" y="9194">  │   └── yargs-parser@4.2.1 </tspan>
+<tspan x="10" y="9210">  ├─┬ webpagetest@0.3.4 </tspan>
+<tspan x="10" y="9226">  │ ├─┬ commander@2.8.1 </tspan>
+<tspan x="10" y="9242">  │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="9258">  │ ├─┬ csv@0.4.6 </tspan>
+<tspan x="10" y="9274">  │ │ ├── csv-generate@0.0.6 </tspan>
+<tspan x="10" y="9290">  │ │ ├── csv-parse@1.2.0 </tspan>
+<tspan x="10" y="9306">  │ │ ├── csv-stringify@0.0.8 </tspan>
+<tspan x="10" y="9322">  │ │ └── stream-transform@0.1.2 </tspan>
+<tspan x="10" y="9338">  │ ├── entities@1.1.1 </tspan>
+<tspan x="10" y="9354">  │ ├─┬ mocha@2.5.3 </tspan>
+<tspan x="10" y="9370">  │ │ ├── commander@2.3.0 </tspan>
+<tspan x="10" y="9386">  │ │ ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="9402">  │ │ │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="9418">  │ │ ├── diff@1.4.0 </tspan>
+<tspan x="10" y="9434">  │ │ ├── escape-string-regexp@1.0.2 </tspan>
+<tspan x="10" y="9450">  │ │ ├─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="9466">  │ │ │ └─┬ minimatch@0.3.0 </tspan>
+<tspan x="10" y="9482">  │ │ │   ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="9498">  │ │ │   └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="9514">  │ │ ├── growl@1.9.2 </tspan>
+<tspan x="10" y="9530">  │ │ ├─┬ jade@0.26.3 </tspan>
+<tspan x="10" y="9546">  │ │ │ ├── commander@0.6.1 </tspan>
+<tspan x="10" y="9562">  │ │ │ └── mkdirp@0.3.0 </tspan>
+<tspan x="10" y="9578">  │ │ ├── supports-color@1.2.0 </tspan>
+<tspan x="10" y="9594">  │ │ └── to-iso-string@0.0.2 </tspan>
+<tspan x="10" y="9610">  │ └─┬ xml2js@0.4.17 </tspan>
+<tspan x="10" y="9626">  │   ├── sax@1.2.2 </tspan>
+<tspan x="10" y="9642">  │   └── xmlbuilder@4.2.1 </tspan>
+<tspan x="10" y="9658">  └─┬ yargs@6.6.0 </tspan>
+<tspan x="10" y="9674">    ├── camelcase@3.0.0 </tspan>
+<tspan x="10" y="9690">    ├─┬ cliui@3.2.0 </tspan>
+<tspan x="10" y="9706">    │ └── wrap-ansi@2.1.0 </tspan>
+<tspan x="10" y="9722">    ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="9738">    ├── get-caller-file@1.0.2 </tspan>
+<tspan x="10" y="9754">    ├─┬ os-locale@1.4.0 </tspan>
+<tspan x="10" y="9770">    │ └─┬ lcid@1.0.0 </tspan>
+<tspan x="10" y="9786">    │   └── invert-kv@1.0.0 </tspan>
+<tspan x="10" y="9802">    ├─┬ read-pkg-up@1.0.1 </tspan>
+<tspan x="10" y="9818">    │ ├─┬ find-up@1.1.2 </tspan>
+<tspan x="10" y="9834">    │ │ └── path-exists@2.1.0 </tspan>
+<tspan x="10" y="9850">    │ └─┬ read-pkg@1.1.0 </tspan>
+<tspan x="10" y="9866">    │   ├─┬ load-json-file@1.1.0 </tspan>
+<tspan x="10" y="9882">    │   │ └── pify@2.3.0 </tspan>
+<tspan x="10" y="9898">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
+<tspan x="10" y="9914">    │   │ ├── hosted-git-info@2.4.2 </tspan>
+<tspan x="10" y="9930">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
+<tspan x="10" y="9946">    │   │ │ └── builtin-modules@1.1.1 </tspan>
+<tspan x="10" y="9962">    │   │ ├── semver@5.3.0 </tspan>
+<tspan x="10" y="9978">    │   │ └─┬ validate-npm-package-license@3.0.1 </tspan>
+<tspan x="10" y="9994">    │   │   ├─┬ spdx-correct@1.0.2 </tspan>
+<tspan x="10" y="10010">    │   │   │ └── spdx-license-ids@1.2.2 </tspan>
+<tspan x="10" y="10026">    │   │   └── spdx-expression-parse@1.0.4 </tspan>
+<tspan x="10" y="10042">    │   └── path-type@1.1.0 </tspan>
+<tspan x="10" y="10058">    ├── require-directory@2.1.1 </tspan>
+<tspan x="10" y="10074">    ├── require-main-filename@1.0.1 </tspan>
+<tspan x="10" y="10090">    ├── set-blocking@2.0.0 </tspan>
+<tspan x="10" y="10106">    ├─┬ string-width@1.0.2 </tspan>
+<tspan x="10" y="10122">    │ ├── code-point-at@1.1.0 </tspan>
+<tspan x="10" y="10138">    │ └─┬ is-fullwidth-code-point@1.0.0 </tspan>
+<tspan x="10" y="10154">    │   └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="10170">    ├── which-module@1.0.0 </tspan>
+<tspan x="10" y="10186">    ├── y18n@3.2.1 </tspan>
+<tspan x="10" y="10202">    └── yargs-parser@4.2.1</tspan>
+</text>
+</svg>
